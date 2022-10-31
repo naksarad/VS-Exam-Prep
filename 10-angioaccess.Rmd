@@ -662,7 +662,7 @@ require revision?**
     or poor technique
 
 -   True aneurysms result from long standing hemodynamically significant
-    outflow stenosis.
+    outflow stenosis.[@hossny2014; @patel2015]
 
 Both can lead to cannulation difficulties, increased risk of thrombosis,
 pain, bleeding and cosmetic deformities. AV aneurysms should be revised
