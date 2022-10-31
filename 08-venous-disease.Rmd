@@ -25,24 +25,24 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Rouleaux_Club_-_Venous_R
 
 **What is chronic venous insufficiency and how common is it?**
 
-So I thought the first question was going to be a nice, easy
-uncontroversial one and you've landed with CVI. What you've hit upon is
+I thought the first question was going to be nice, easy
+and uncontroversial, but you've started with CVI. What you've highlighted is
 one of the main problems with venous disease, which is terminology. So
 if you type in chronic venous insufficiency into Google, you end up
 with, this enormous range of descriptions and how its used in lots of
 different ways, by lots of different people.
 
 One of the problems is that this led to a lot of confusion among people
-within the space let alone everywhere else. So really important
-documents to guide people to is the VEIN-TERM consensus document
+within the venous space and everywhere else. A really important
+documents to guide people is the VEIN-TERM consensus document
 published in 2009.[@eklof2009] The lead author was Dr. Bo Eklof and this
-was a document where a whole group of venous experts around the world
+was a document where a group of venous experts around the world
 got together and said, okay, we need to be clear and define what all
 these different terms mean.
 
-And what are the terms that he found was chronic venous insufficiency.
-And the official definition is it is a venous disease between C3 and C6
-on the CAEP classification. We'll talk about that a bit later, I'm sure.
+And one of the terms that was described was chronic venous insufficiency.
+The official definition is it is a venous disease between C3 and C6
+on the CEAP classification. We'll talk about that a bit later, I'm sure.
 But between C3 and C6. In practice, it is used to describe the entire
 spectrum of venous disease ranging from thread veins C1 all the way up
 to venous ulceration. But technically it is C3 to C6. And I would urge
@@ -60,8 +60,8 @@ anyone to look at that document.
 Chronic venous disease is very common, with the weather getting a bit
 nicer, people wearing shorts, you're spotting, venous disease all over
 the place. The studies that have been done indicate that at least a
-quarter, probably up to a third of people have C2 to C6 disease. So very
-common problem, lots of people that need treatment.
+quarter, probably up to a third of people have C2 to C6 disease. So a very
+common problem, with lots of people that need treatment.
 
 The Edinburgh Vein Study found that half of the general populatino with
 chronic venous disease deteriorated over the 13 year study. Factors
@@ -74,34 +74,32 @@ you mentioned CAEP, could you expand on that?**
 
 So CEAP\--clinical, etiological (with an E because it's American),
 anatomical, pathophysiological--classification system was introduced, I
-think in the mid 1990s, by the American Venous Forum and American
-colleagues. And it's a classification system.
+think in the mid 1990s, by the American Venous Forum. And it's a classification system.
 
 So if you have a patient that comes into your clinic with a venous
 problem, it's a system to allow you to describe that patient's current
-situation in an objective, clear way. What it does not do is give you
+status in an objective, clear way. What it does not do is give you
 any information about prognostication and it isn't useful for measuring
 responses to treatment.
 
 So it is purely a descriptive classification system. And the most
-commonly used bit is the clinical bit, which is C1 one to C6. And again,
-CAEP was just recently revised last year, a 25 year revision, which
+commonly used part is the clinical bit, which is C1 to C6. CEAP was just recently revised last year, a 25 year revision, which
 again, I would urge trainees to have a look at, Dr. Fedor Lurie was the
-lead author, and just some useful revisions of CEAP.[@lurie2020]
+lead author, and this was a useful revision of CEAP.[@lurie2020]
 
-Now in response to the limitations of CAEP, the Venous Clinical Severity
+Now in response to the limitations of CEAP, the Venous Clinical Severity
 Score (VCSS) was created. So this is a 10 item scoring system, each item
 scores between zero and three. So you get a maximum score of 30. Now
 this is designed to be responsive to treatment and complimentary to
-CAEP.[@vasquez2010]
+CEAP.[@vasquez2010]
 
 There are lots of other things that have been described, quality of life
-tools or VDS, but I would say that those two are the most relevant and
-important ones to know about. But many of the QOL tools are too
+tools or VDS, but I would say that those two (CEAP and VCSS) are the most relevant and
+important ones to know about. Many of the QOL tools are too
 cumbersome to use in day to day practice. We are in dire need of a easy
 to use clinical tool that is validated for assessment of patient
 reported outcomes. And again, the number of papers I've reviewed where
-people have reported CAEP scores as one of the outcome measures in
+people have reported CEAP scores as one of the outcome measures in
 response to treatments. That is not what it's designed for, for example,
 you can never get lower than C5. You can never get better than a healed
 ulcer. So again, that's the important distinction.
@@ -113,8 +111,8 @@ which type of imaging modalities should we use to investigate the
 function and the anatomy of the lower limbs?**
 
 If a patient comes to clinic, we can't underestimate the importance of
-the clinical assessment. And when you assess these patients, you really
-looking for two things, you are looking for the impact of their venous
+the clinical assessment. And when you assess these patients, you are really
+looking for the impact of their venous
 disease on their quality of life and the impact of the venous disease
 has on their normal function.
 
@@ -125,21 +123,20 @@ And that's the goal of any investigation.
 
 Venous duplex imaging is obviously the first line, gold standard that
 pretty much anybody will go to around the world. And what that does is
-essentially gives you information about the flow, both in the normal
-antegrade, but also retrograde or refluxing flow in superficial and deep
+essentially gives you information about the venous flow, antegrade or retrograde or refluxing flow in superficial and deep
 veins.
 
 It'll give you information about the anatomy of the veins , which will
 help you to plan treatment, but it also gives you lots of other
 information as well. It gives you information in the common femoral
-vein, for example, if there's good phasicity of flow or if there's no
+vein, for example, if there's good phasicity of flow or if there's any
 scarring. It helps you to evaluate whether there might be some outflow
 obstruction, so duplex imaging is the absolute first line, gold
 standard. For more on venous duplex scanning, see \@ref(venous).
 
-Now, once you've done theduplex imaging, if there's clinical suspicion,
+Now, once you've done the duplex imaging, if there's clinical suspicion,
 then of course we can move on to other investigations. So proximal CTV,
-MRV, venography, IVUS, all sorts of other weird and wonderful things.
+MRV, venography, IVUS.
 But clinical assessments and duplex assessment are the bedrock of every
 assessment of every venous patient. So that's the foundation.
 
@@ -156,31 +153,30 @@ Before I go into the trials, I'm just going to go back a step and just
 talk about the general mindset that's important for these patients. So
 what we're treating with these patients is not superficial venous
 reflux. What we're treating is chronic venous hypertension. So we're
-treating a global pathophysiological entity of which the superficial
+treating a pathophysiological entity of which the superficial
 reflux is one correctable factor. And the reason that's important is
-that there may be other correctable factors, such as venous outflow
-obstruction or other sort of mobility related things can be adjusted.
-Decision making also takes into account patient presentation. For
+that there may be other correctable factors, such as venous outflow obstruction, 
+which may be addressed. Decision making also takes into account patient presentation. For
 example a patient with asymptomatic varicose veins, even with proximal
 obstruction and superficial reflux, should still only be treated with
 compression.[@vandenboezem2011; @wittens2015]
 
-But they're also going to be lots of uncorrectable factors, such as poor
+But there are also going to be lots of uncorrectable factors, such as poor
 mobility, heart failure, dependency, ankle stiffness. If your ankle is
 stiff, you can't use your calf muscle to pump effectively. You don't
-have that mechanism for clearing the pressure out of your legs. So the
+have that mechanism for reducing the  venous pressure in your legs. So the
 success of these treatments, particularly for the ulcer population, has
 to be taken in the context of treating venous hypertension as well.
 
-Having said that the aim of these trials was really very simple. Most
-patients with venous ulceration have got superficial reflux. So what is
+Having said that, the aim of these trials was really very simple. Most
+patients with venous ulceration have superficial reflux. So what is
 the role of treating the superficial reflux? That's the simple question
 that was asked by these trials.
 
-So the ESCHAR trial recruited between 1999 and 2002, 500 patients with
-healed and open leg ulcers. They either randomized to compression or
-compression and traditional, superficial venous surgery, stripping or
-ligation. And that trial was very clear. It showed that with venous
+The ESCHAR trial recruited between 1999 and 2002, and included 500 patients with
+healed and open leg ulcers. They were either randomized to compression or
+compression and traditional, superficial venous surgery (stripping or
+ligation). And that trial was very clear. It showed that with venous
 stripping there wasn't a benefit for healing, but there was a
 significant and sizable reduction in the risk of ulcer
 recurrence.[@gohel2007]
@@ -191,10 +187,10 @@ don't really do stripping anymore, it's all endovenous. So EVRA really
 aimed to bring the ESCHAR trial up to modern practice. We randomized 450
 patients with open leg ulcers to early endovenous treatments, delivered
 within two weeks versus a more delayed approach. What EVRA showed, again
-is common sense, if you do with the underlying problem, the venous
+is common sense, if you deal with the underlying problem (usually superficial reflux), the venous
 ulceration healed significantly quicker.[@gohel2018]
 
-So put them together clear, unequivocal argument for treating the
+So putting them together, there is a clear, unequivocal argument for treating the
 superficial reflux in these patients as quickly as possible.
 
 #### Endovenous
@@ -202,17 +198,17 @@ superficial reflux in these patients as quickly as possible.
 **Can you broadly outline the different treatment options that can be
 offered to patients with superficial venous reflex?**
 
-I have counted about 42 different ways of murdering a saphenous vein.
-Long and short of it, there are lots of different treatment options. Do
+I have counted about 42 different ways of destroying a saphenous vein.
+There are lots of different treatment options. Do
 something that you're trained in and proficient with and something
 that's appropriate. Thermal ablation is in the NICE guidance and in lots
 of other international guideline documents has been combined, whether
 it's radiofrequency or laser. Although foam sclerotherapy therapy, when
 studied in randomized trials, has lower technical success rates and
 lower vein closure rates, the clinical success rates in terms of healing
-are just as good. This sort of five, six, even 10% reduction in closing
+are just as good. This reduced effectiveness in closing
 the vein, doesn't really seem to translate into a significant drop in
-clinical effectiveness.
+clinical effectiveness after foam sclerotherapy.
 
 So I think the most important thing is not necessarily what you use,
 it's doing it quickly and delivering it to the people that need it.
@@ -235,7 +231,7 @@ of?**
 
 You can spend an hour doing this, if you're being very diligent. But
 what I say to patients are that there are generic risks of venous
-thromboembolism is the risk of any intervention. And I think that's
+thromboembolism, as is the risk of any intervention. And I think that's
 worthy of specific discussion after endovenous procedures, but I quote a
 risk of around one in 200 for most endovenous interventions. Extension
 of proximal thrombus into the deep system is termed endothermal
@@ -257,7 +253,7 @@ nerve related complications, so some numbness or some nerve pain, are
 worthy of mentioned, and of course the risk of recurrence.
 
 Foam sclerotherapy has a different mechanism of action. It's a detergent
-that's injected into the vein that kills the endothelium. And there are
+that's injected into the vein that destroys the endothelium. And there are
 some people that have associated foam sclerotherapy with some
 neurological events. So a very large registry that was organized by the
 manufacturers of STS recently looked at 10,000 patients in the UK and
@@ -288,10 +284,10 @@ risks?**
 
 So I think VTE is something that is really worth specifically
 discussing. It's a very rare event after superficial venous
-interventions, but it's potentially catastrophic. It's newspaper worthy,
-if young people end up having a very bad outcome. What we've got to
+interventions, but it's potentially catastrophic, with sometimes 
+national press coverage for bad outcomes.  What we've got to
 realize is that the rate of VTE events is very low, there are almost
-certainly some people that have got a higher risk. And so what we've got
+certainly some people that have a higher risk. And so what we've got
 to get slightly smarter about is identifying the people that have a
 higher risk of VTE and maybe giving them prolonged course of
 thromboprophylaxis, as well as appropriate counseling and mitigation as
@@ -313,16 +309,14 @@ patients have a much higher risk of VTE than we previously recognized.
 There are also minor factors, superficial vein thrombosis, obesity,
 comorbidities. All of these things are put together and we come out with
 a score. For patients above a certain threshold, they get offered
-extended rivaroxaban or low molecular weight heparin. So then we can get
-smarter.
+extended rivaroxaban or low molecular weight heparin. 
 
 In addition, it is important to implement mitigation. So traditionally
 things like a contraceptive pill, HRT and Tamoxifen, we wouldn't usually
 stop them for a local anesthetic procedure, but being on an estrogen
 containing pill doubles or triples your risk of VTE. It's an easily
 reversible thing in the short term that can be done. So for my patients,
-I would normally recommend that we stop the pill a full cycle before,
-and similarly a month before and after the procedure.
+I would normally recommend that we stop the pill or HRT a full month before and after the procedure.
 
 **You mentioned it an extended course of anticoagulation for those
 patients with risk factors. Is there a specific timescale locally that
@@ -344,10 +338,10 @@ not to stop prophylaxis too soon.
 **Moving on to a more specific question about treatment, what is the
 role for treating and competent perforator veins in these patients?**
 
-In most sensible practices, the more advanced the venous disease, the
-more likely you are for the disease to be recurrent, the more likely
+In general, the more advanced the venous disease, the
+more likely it is that the disease is recurrent, the more likely
 there is to be deep venous disease or posts thrombotic disease, and the
-more likely you are to finding competent perforators. If you imagine
+more likely you are to finding incompetent perforators. If you imagine
 these patients with venous ulcer, it is very common to find perforators,
 and if you take a sort of super aggressive role saying you've got to
 obliterate every single bit of reflux you can find, then you'd be doing
@@ -372,39 +366,37 @@ outcomes in the EVRA study was the best healing rate of any published
 prospective leg ulcer study. So, putting all that together, it's
 difficult to make a case for aggressive treatment of perforators first
 up. Having said that for some people with recurrent disease, it's not
-uncommon to have a big mid thigh **Huntarian perforator or Cocher's**
-perforator lower down on the medial side. So, I do treat perforators,
+uncommon to have a big mid thigh **Huntarian perforator or Cocker's**
+perforator lower down on the medial calf. So, I do treat perforators,
 but almost always it's in recurrent disease with recurrence or
 deteriorating symptoms.
 
 #### Open Surgery
 
 **So we've discussed quite a bit about endovenous intervention. Is there
-a rule for open surgery in some patients?**
+a role for open surgery in some patients?**
 
 Open surgery remains the most commonly used superficial venous
 intervention around the world, and there are still lots of centers in
 the UK that primarily offer open surgery. Being balanced, it's a very
-effective treatments if you do it well and if you use modern approaches
-tumescent anesthesia ultrasound guidance, then actually some of the
+effective treatment if you do it well and if you use modern approaches, such as
+tumescent anesthesia and ultrasound guidance, then actually some of the
 traditional issues with open surgery, which are often technical and
 complication related, don't really apply.
 
-Having said that all the randomized trials have shown the same thing
+Having said that, all the randomized trials have shown the same thing
 while the effectiveness may be as good in open surgery done well, the
 recovery is much better after endovenous ablation. So it's difficult to
 make the case for open surgery when you've got something that is so well
 established and the complications just so low, and it's cheaper when you
 look at their theater capacity, et cetera.
 
-So, I think there has to be a steady drift towards endovenous, but there
+So, I think there has to be a move towards endovenous, but there
 are lots of things stopping this. In Germany, for example, the
 reimbursement is greatest for open surgery. So surprise, surprise, there
-are still lots and lots of open varicose vein operations. And again, for
-you guys, if you're going to change practice, the single biggest driver
-for change in practice is reimbursement. If you can, you can change
-where the money goes. You can change whatever you like. So, the final
-thing is I've treated maybe three patients with open surgery in the last
+are still lots and lots of open varicose vein operations. For
+trainees, it is important to recognise that if you want to change practice, the single biggest driver
+for change is reimbursement. You can change whatever you like. So, I've treated maybe three patients with open surgery in the last
 five years. One was a GP, who I had treated the other leg with open
 surgery a few years earlier, and she said, "I want the same operation,
 please." So I did struggle to argue with that. The other two were big
@@ -427,8 +419,7 @@ any pharmacological therapies that can be used in patients with chronic
 venous insufficiency?**
 
 So we're pretty skeptical in the UK, when it comes to venoactive or
-pharmacological treatments. If you go to Europe, they love them. They
-sell like hot cakes. They're over the counter in a lot of pharmacies.
+pharmacological treatments. If you go to Europe, they love them. They're over the counter in a lot of pharmacies.
 The drug with probably the most evidence is something called Daflon,
 micronized purified flavonoid fraction.
 
@@ -438,10 +429,10 @@ studies have shown improvements in edema and heaviness. Daflon is
 marketed by a French company and it's got good evidence, but they do not
 see places like the UK as a big enough market because of our inherent
 skepticism over these sort of things, to make it worth their while to go
-through the marketing and the regulatory stuff. So it's not available.
+through the marketing and the regulatory processes. So it's not available.
 But patients that have gone to France and picked it up over the counter
-and have said it works well. So there may be a rolling and
-pentoxyphyllin and these other things---there's some good evidence that
+and have said it works well. So there may be a roll for some venoactive medications such as 
+pentoxyphyllin ---there's some good evidence that
 it accelerates healing of leg ulcers.
 
 But I don't think we're very receptive in the UK in general, not in the
@@ -481,23 +472,23 @@ Traditionally, it's just been seen as just a bit of a nuisance and let's
 not worry about it, treat with analgesia and anti-inflammatories, and
 you'll be fine.
 
-It's can be a really sinister pathology and associated with VTE. If you
+It can be a really sinister pathology and associated with VTE. If you
 think of how many thousands, millions of people that have varicose
 veins. They don't all get clots in their varicose veins. They've all got
 stasis to a certain extent but they don't get clots. So it's more than
 just the flow dynamics going on here. These people likely have an
-thrombogenic innate quality that leads to this. That's shown out in the
-study, some really good work in some French studies. They identified
+thrombogenic innate tendency that leads to this. That's shown out in the
+studies, some really good work in some French studies, such as the POST study. They identified
 patients who were scanned with superficial vein thrombosis, and a
 quarter of them on their first duplex scan had a DVT. A lot of these
-DVTs were remotes from the superficial vein thrombosis.[@decousus2010]
+DVTs were remote to the superficial vein thrombosis.[@decousus2010]
 So they're not all extending into the deep vein---they were
 remote---confirming this idea that actually a thrombogenic problem is
 going on here. A patient with superficial vein thrombus and a previous
 history of DVT could suggest a subsequent risk of VTE up to 20%.
 
-So in the latest ESVS guidelines, there is quite a lot of stuff about
-SVT treatment algorithms. I would urge people to have a look at that,
+So in the latest ESVS guidelines, there is quite a lot of content about
+SVT treatment with algorithms. I would urge people to have a look at that,
 and it's important to risk stratify people. Limited disease can be
 followed with ultrasound at 1-2 weeks, but the closer you are to the
 junction, the higher VTE risk, and actually for anyone other than just a
@@ -535,8 +526,7 @@ veins?**
 
 Really important question. It is a vascular emergency. There are several
 depressing reports of patients having died from bleeding from a
-varicosity. These are often elderly patients who are frail, who have
-arthritis in their hips, and therefore can't bend down to press on the
+varicosity. These are often elderly patients who are frail, with limited mobility , and therefore can't bend down to press on the
 bleeding varicosity down by the ankle ulcer. There's some very grim
 photos in various case reports and it's really sad. There's two or three
 photos that I've seen where an elderly patient has not wanted to wake
@@ -545,12 +535,12 @@ bleeding vein that they couldn't control and basically exsanguinated.
 
 So, it's a vascular emergency and these patients should be seen and
 assessed and their superficial venous disease should be dealt with as
-soon as possible. We had an emergency clinic running and anyone with
+soon as possible. We have an emergency clinic running and anyone with
 bleeding veins have the same urgency as the CLI patients and they were
 treated there and then.
 
 In terms of the treatment, there's two aspects: you want to decompress
-the venous hypertension by ablating the saphenous reflux, but the
+the venous hypertension by ablating the saphenous reflux, but for the
 specific bleeding area, I think there's a real case for some local foam
 sclerotherapy. You want to block off that vulnerable bleeding vein to
 ensure that this doesn't happen again. But again, if anyone receives a
@@ -601,15 +591,15 @@ specific factors and causes?**
 
 In general, what's been happening for several years is a recognition
 that there are some DVTs that happened with a clear provoking
-factor---the commonist major, transient, provoking factor is something
-like surgery, for example. So a lot of DVT are caused with that clear
+factor---a common major, transient, provoking factor is major surgery, 
+for example. So a lot of DVT are caused with that clear
 provoking factor, but there's an enormous population of people that
 don't have a clear provoking factor at all, or have a minor factor that
 may or may not have contributed.
 
 So traditionally there's been a dichotomy between provoked and
 unprovoked. If it's provoked, they get a limited period of
-anticoagulation is unprovoked it's long-term. And certainly the last big
+anticoagulation is unprovoked it's long-term anticoagulation. And certainly the last big
 thrombosis guidelines was the ACCP guidelines, the American CHEST
 guidelines, and that's what they suggested, but it's much more nuanced
 than that.
@@ -689,7 +679,7 @@ an aggressive, thorough assessment process rather than a more selective
 process, have picked up a few more cancers, but the additional cost in
 terms of anxiety, additional investigations, et cetera, and no
 demonstrable improvement in outcome has meant that the guidelines have
-not recommended routine cancer screening beyond the appropriate age and
+not recommended routine cancer screening beyond the appropriate, symptom driven age and
 sex specific screening---PSA, breast assessments, colonoscopy, etc.
 
 One unique situation is recurrent or migratory superficial vein
@@ -700,7 +690,7 @@ underlying malignancy.[@litzendorf2011]
 
 **What is the algorithm for investigation?**
 
-The most important components is the first component of the algorithm,
+The most important part is the first component of the algorithm,
 which is an assessment of the pre-test probability of DVT. So anyone who
 comes with a DVT, you can go through a validated tool. The most common
 is the Wells probability score, which is a series of questions and give
@@ -709,7 +699,7 @@ you an indication as to whether a DVT is likely or unlikely.
 
 If a DVT is likely, then the algorithm is to do a scan, very
 straightforward. If a DVT is unlikely, then the algorithm is to do a
-D-dimer. Because if that is negative, DVT is excluded. The guidelines
+D-dimer. Because if that is negative, DVT is effectively excluded. The guidelines
 are very clear on the assessment process, but a lot of this won't reach
 our radars as vascular specialists at all until the DVT has been
 diagnosed, so we don't appreciate the importance of the early stages. So
@@ -717,7 +707,7 @@ again, a quick plug for the guidelines, there's a very nice algorithm,
 beautiful colors---I definitely recommend having a look.
 
 On ultrasound, acute DVT is characterized by an enlarged vein with a
-non-compressible lumen and hypoechoic thrombus. Chronic thrombus is
+non-compressible lumen and hypoechoic thrombus. Chronic post-thrombotic scarring is
 often contracted with echogenic appearance.[@yusof2019] For more
 details, see \@ref(sec-venous).
 
@@ -735,7 +725,7 @@ make DOACs, have been done and they've all shown fairly consistent
 things. They've shown that the DOACs are as effective as the vitamin K
 antagonists at preventing DVT. They have almost always a significantly
 lower bleeding risk, but they've got this enormous added convenience of
-not needing regular blood tests, not having this dietary effect , and
+not needing regular blood tests, not having this dietary limitations, and
 the erratic control, et cetera. So the general direction of travel is
 inexorably towards more and more use of DOACs.
 
@@ -772,18 +762,18 @@ acute phase?**
 
 Traditionally people have been a bit nervous about putting compression
 on patients with acute DVT, concerns about causing propagation and
-causing PEs and all this sort of stuff. A very important study was the
-ideal DVT study[@tencate-hoek2018], run by a series of Dutch colleagues,
+causing PEs. A very important study was the
+ideal DVT study[@tencate-hoek2018], run by Dutch colleagues,
 and a number of other additional studies more recently that have built
 on the original IDEAL DVT study.[@schreurs2022]
 
 The short answer to your question is that early compression is really
 important. It's a really positive thing to do within 24 hours and it's
 proper compression. It's not just the Ted stocking and see what happens.
-It's 30 to 40 millimeters of mercury, so that in practice is a class two
-stocking with a bandage on top. The benefits are reduces the early pain
+It's 30 to 40 mmHg, so that in practice is a class two
+stocking with a bandage on top. The benefits are that this reduces the early pain
 and swelling of the DVT, but also interestingly, it reduces the risk of
-post-thrombotic syndrome. So if you put compression on early, it reduces
+post-thrombotic syndrome and post-thrombotic venous obstruction. So if you put compression on early, it reduces
 the risk of them developing post-thrombotic syndrome. So a lot of focus
 has been on clearing the vein and early thrombus removal and
 thrombolysis and thrombectomy and all this sort of aggressive stuff. But
@@ -920,12 +910,7 @@ Open thrombectomy is part of the spectrum of early thrombus removal
 techniques. It used to be very popular, a very satisfying technique---I
 think I've done it three times. They've all been for the same sort of
 indication, which is phlegmasia, severe limb threatening post DVT
-change, and in a patient where they couldn't tolerate anticoagulation
-and therefore weren't candidates for thrombolysis. One commonly tested
-contraindication is a patient with metastatic cancer including brain
-metastases. This is a contraindication to thrombolysis and so should be
-initially managed with anticoagulation and compression
-therapy.[@vedantham2016] However, if you're with a patient where the leg
+change, and in a patient where they weren't candidates for thrombolysis. However, if you're with a patient where the leg
 is threatened, you can't anticoagulate them, you can't thrombolize them.
 Then in that case this is a sort of last ditch approach. But if that's
 not the case, then almost always a catheter based approach is less
@@ -956,7 +941,7 @@ these people would have been randomized into the trial.
 So the immediate criticism of the trials is that this is not reflective
 of the population. You've excluded the people that benefit, so it's an
 underestimate of the benefit of the technique. But if we look at trial
-results ourselves, there is a modest benefits. In the CaVent trial, PTS
+results ourselves, there is a modest benefit. In the CaVent trial, PTS
 rate was reduced. The quality of life was less impressive, but the PTS
 rate was reduced moderately.[@haig2016] And in the ATTRACT trial, when
 they subgroup analyzed the iliofemoral DVT group, then there was a
@@ -967,9 +952,8 @@ moderate to severe PTS.[@vedantham2017]
 
 So then the discussion is are those numbers needed to treat appropriate
 for intervention? Particularly when you then start to consider the
-additional need for stenting surveillance, et cetera. So I think the
-jury is very much out and it's turning into a Brexit or a Donald Trump
-like discussion. You've got really stark, strong, firmly held
+additional need for stenting and long-term surveillance, et cetera. So I think the
+jury is very much out. You've got really stark, strong, firmly held
 unshiftable views on both sides of the argument and what we need is a
 bit of nuance. What we need is everyone accepts that some people benefit
 let's all work together, try and work out, which people benefit. Let's
@@ -984,8 +968,8 @@ segment. So if it's infrainguinal, proximal DVT, even if its severely
 symptomatic, the studies that actually you cause harm by attempting
 early thrombus removal. That's the first important point.
 
-Even if they have got severe symptoms, there's always a role for
-conservative management, compression elevation and a lot of these people
+Even if they have got severe symptoms, there's always a role for initial
+conservative management, compression with elevation and a lot of these people
 have a dramatic improvement in their symptoms. If they don't, and
 there's an honest discussion, and the bleeding risk is low then
 potentially there is a role. But when there's a treatment with a
@@ -1061,8 +1045,8 @@ increasing pressure on the soft tissues. Then that starts to threaten
 tissue perfusion and potentially if it's bad enough this will threaten
 the actual arterial profusion of the leg as well. Presentation often
 includes iliofemoral DVT with non-palpable pulses and loss of sensation
-with out improvement on anticoagulation and elevation. Catheter directed
-thrombolysis is the first line with fasciotomies, with open thrombectomy
+with out improvement on anticoagulation and elevation. Endovascular early thrombus 
+removal  is the first line with fasciotomies, with open thrombectomy
 as back up for salvage.[@erdoes2011; @thomas2019]
 
 So that's the sort of most severe and extreme form. I don't think
@@ -1083,14 +1067,14 @@ common causes for deep venous obstruction? Thinking about
 post-thrombotic and non-thrombotic obstructions.**
 
 So again, the terminology is important. So it's venous outflow
-obstruction. Obstruction implies that there's a physiological barrier
+obstruction. Obstruction implies that there's a physiological issue
 causing the consequences. As opposed to occlusion, which is an
-anatomical term. So venus outflow obstruction, is essentially anything
+anatomical term. So venous outflow obstruction, is essentially anything
 that reduces the ability of venous blood to escape the leg via deep
 venous channels will cause an obstruction.
 
 And again, going back to a bit of physiology. Poiseuille's Law talks
-about the flow rate being the fourth power of the radius. So it's really
+about the flow rate being proportional to the fourth power of the radius. So it's really
 interesting. A question to ask is that if you've got a two centimeter
 vein, how many, one centimeter veins would it take to carry the same
 potential flow as a single two centimeter vein?
@@ -1111,14 +1095,13 @@ you're lucky, the vein will recanalize completely. If you're unlucky, it
 will obstruct completely. And if you're somewhere in between, you'll end
 up with partial stenosis and obstruction. What's important is even if
 the vein is open, what you almost always lose in the post-thrombotic
-vein is a lack of compliance. It's not the same compliant vein that can
+vein is venous compliance. It's not the same compliant vein that can
 respond to demands and physiological need that you have, in a primary
 non-scarred vein.
 
 Other potential causes are a non-thrombotic iliac vein lesion, or
 May-Thurner lesion. So the original paper, 1957, is very interesting
-reading.[@may1957] There were a couple of Austrian pathologists who were
-looking at kind of various specimens and they identified that a very
+reading.[@may1957] There were a couple of Austrian pathologists who identified that a very
 high proportion of people, particularly those had left-sided DVT had,
 not only the overriding iliac artery causing compression, but they had a
 secondary tight fibrosis in the iliac vein.[@nazzal2015] So it's not
@@ -1185,8 +1168,8 @@ problem is if you get super aggressive, then you start to over-diagnose
 and if you start to over-diagnose, you start to over treat and this all
 gets very messy.
 
-I think the sort of people that have got clear signs and symptoms of
-major venous outflow obstruction, particularly things like venous
+I think the sort of people that have clear signs and symptoms of
+major venous outflow obstruction, particularly venous
 claudication, history of previous DVT, really disproportionate venous
 changes to the superficial and the infrainguinal imaging. Proximal
 obstruction can present with atypical proximal varicose veins in the
@@ -1210,7 +1193,7 @@ headache and a problem---Should I treat or should I not treat?
 **So you mentioned IVUS, what is intravascular ultrasound and what are
 the particular benefits of using this technique over venography alone?**
 
-IVUS an approximately nine French probe that is inserted into the vein
+IVUS is a 9F probe that is inserted into the vein
 and it gives you a 360 degree view in B-mode ultrasound---traditionally
 without color flow, just B mode---of the anatomical structures. What
 it's very useful for is identifying venous anatomy, confluences,
@@ -1225,8 +1208,8 @@ stenting is 10-15% of largest diameter of adjacent vein.[@gloviczki2011;
 @odonnell2014; @raju2002; @raju2010]
 
 In terms of when you use it, in some parts of the world it's commonly
-used for diagnostic because the risk of over-diagnosis, but more
-commonly, almost routinely, for therapeutic, particularly when we're
+used for diagnostic purposes, but beware of the risk of over-diagnosis. 
+More commonly, almost routinely, IVUS is used for therapeutic, particularly when we're
 stenting deep veins to plan our landing zones. When CTA/MRA shows
 compression, it must be confirmed with IVUS prior to treatment. IVUS has
 far greater sensitivity and specificity and must show a cross-sectional
@@ -1257,7 +1240,7 @@ swelling persists.
 
 The symptoms are very important and in terms of complications, if
 somebody has intractable ulceration, et cetera, these are all important
-indications. Butt a bit of skin change, a bit of mild swelling, careful
+indications. But a bit of skin change, a bit of mild swelling, careful
 case selection is very important for these procedures.
 
 ### Management
@@ -1317,7 +1300,7 @@ undergo a stent. If there's no issues, they get transitioned to a DOAC.
 
 In addition, the patients get six weeks of clopidogrel as an
 anti-platelet. And again, the reason for that is that it's a foreign
-material into the vein. Yes, the role of anti-platelets of renting
+material into the vein. Yes, the role of anti-platelets in prev enting
 venous thrombosis is very limited but there has to be some platelet
 related activity and platelet activation involved there. So it makes
 logical sense to have some anti-platelet activity. Of course the
@@ -1385,7 +1368,7 @@ available for them? And when would you consider treating?**
 nutshell---the association between anatomical changes and clinical
 symptoms is ropey at best. In terms of postpartum women, an enormous
 proportion of these women have got venous reflux in the pelvis---if you
-look hard enough. so the problem is that if you start looking for
+look hard enough. so the problem is similar to that of
 May-Thurner syndrome, if you start looking hard enough, you start
 identifying these symptoms and then you lose the ability to really
 discern who's going to benefit most.
@@ -1395,7 +1378,7 @@ important thing. If they've got severe clinical symptoms majorly
 affecting their quality of life and associated significant venous
 changes, then those people to try to intervene on. It's not necessarily
 a benign procedure. Pelvic vein embolization involves implantation of
-coils. There's concerns about non-targeted embolization coils have ended
+coils. There's concerns about non-targeted embolization as coils have ended
 up in lungs. There are a number of people with unknown nickel allergies
 that have problems with these coils. So again, it's not an area to be
 over aggressive. So careful case selection is important. So again, a
@@ -1425,7 +1408,7 @@ benign cases).[@kalra2019; @rice2006; @parish1981]
 ### Management
 
 Angioplasty and stenting are first line treatment for benign
-etiology.[@rizvi2008; @sheikh2005] Often angioplasty alone is
+etiology.[@rizvi2008; @sheikh2005] Angioplasty alone may be
 sufficient, but stenosis refractory to angioplasty may require stenting.
 SVC syndrome with failed endovascular management in reasonable operative
 candidates can undergo open reconstruction with large diameter
