@@ -253,7 +253,9 @@ There's always a risk of bruising. And if you do phlebectomies, what I
 often tell people is that bruising sometimes looks worse than it feels.
 And with the thermal interventions in particular, I think the risk of
 nerve related complications, so some numbness or some nerve pain, are
-worthy of mentioned, and of course the risk of recurrence.
+worthy of mentioned, and of course the risk of recurrence. Recurrence of
+varicose veins in the lateral thigh may be related to untreated anterior
+accessory greater saphenous vein disease.[@laredo2010]
 
 Foam sclerotherapy has a different mechanism of action. It's a detergent
 that's injected into the vein that destroys the endothelium. And there
@@ -320,6 +322,10 @@ containing pill doubles or triples your risk of VTE. It's an easily
 reversible thing in the short term that can be done. So for my patients,
 I would normally recommend that we stop the pill or HRT a full month
 before and after the procedure.
+
+For preventing EHIT specifically, the radiofrequency ablation (RFA)
+catheter should be placed 2cm from the SFJ. EHIT is a primarily
+technical complication.@joh2014
 
 **You mentioned it an extended course of anticoagulation for those
 patients with risk factors. Is there a specific timescale locally that
@@ -1358,12 +1364,14 @@ symptoms in the lower abdomen. There may be some association with
 menses, there's often dyspareunia and a whole variety of other symptoms.
 
 There may be associated vulvar varices or posterior buttock and thigh
-varices all as a result of pelvic venous incompetence. But it's a
-complicated field---there are some people that have pelvic symptoms,
-there are some people that have the varicose veins or some will have a
-combination of the two. Almost always they will be seen and initially
-assessed by the gynecology teams rather than coming to the vascular
-surgeons.
+varices all as a result of pelvic venous incompetence. Knowing the
+proximal anatomy of the saphenous vein tributaries is important, as the
+pudendal vein tributary connects vulvar veins and inferior gluteal vein
+connects to the posterior buttock.[@iafrati2019] But it's a complicated
+field---there are some people that have pelvic symptoms, there are some
+people that have the varicose veins or some will have a combination of
+the two. Almost always they will be seen and initially assessed by the
+gynecology teams rather than coming to the vascular surgeons.
 
 ### Evaluation and Management
 
