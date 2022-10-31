@@ -51,7 +51,11 @@ frequencies as Doppler waveforms.
 
 **Color Doppler** presents velocity information as a color-coded overlay
 on top of a B-mode image. Duplex ultrasonography is a term commonly used
-for the simultaneous presentation of B-mode and doppler data.
+for the simultaneous presentation of B-mode and doppler data. Of note,
+when looking at a still image of a color flow duplex, the color may be
+misleading for direction because it may not be noted at which part of
+the cardiac cycle the picture was taken. It is far more reliable to look
+at the spectral doppler waveform.
 
 **Power Doppler** is less frequently used, but is based solely on
 amplitude of the doppler signal without giving information on direction.
@@ -490,11 +494,15 @@ fistula for dialysis, and finally complications of fistulas.
 The optimal configuration for an AVF is determined on the basis of vein
 mapping and noninvasive studies. Veins should measure \>3 mm in diameter
 (\>2.5 mm may be acceptable, as veins are likely to dilate under
-anesthesia), and there should be no arterial inflow stenosis or venous
-outflow stenosis. Duplex ultrasound arterial imaging can be performed at
-the same time as vein mapping and can provide important predictors of
-fistula maturation, such as arterial diameter and flow. The minimal
-arterial lumen diameter is 2 mm.
+anesthesia), and there should be no venous outflow stenosis or arterial
+inflow stenosis.
+
+Loss of phasic variation in the upper extremity veins may indicate
+central stenosis and that extremity may not be appropriate for access
+creation.[@kim2009; @lok2020] Duplex ultrasound arterial imaging can be
+performed at the same time as vein mapping and can provide important
+predictors of fistula maturation, such as arterial diameter and flow.
+The minimal arterial lumen diameter is 2 mm.
 
 **How can we tell if a fistula is ready to be used for hemodialysis
 access?**
@@ -506,7 +514,11 @@ cm to allow for a successful two-needle dialysis.
 
 Brachial artery volume flow rate (VFR) is one of the best measurements
 to identify poor fistula maturation. \>800 ml/min is ideal, but \>600 is
-often sufficient.[@ko2015]
+often sufficient.[@ko2015] To determine the volume flow (VF) the sample
+volume (SV) should be opened wall to wall in a segment of fistula that
+is straight with a constant diameter and include all velocities present
+within the fistula. Angle correction should be less than 60
+degrees.[@gerrickens2018; @ko2015]
 
 **What do normal fistula spectral waveforms look like?**
 
@@ -779,6 +791,9 @@ foot caused by compression of the popliteal artery by the gastrocnemius.
 
 ## Abdominal
 
+Lowest frequency transducers (2-4MHz) are used for imaging abdominal
+vessels.
+
 ### Aorta
 
 **Abdominal Aortic Aneurysms (AAA):** Ultrasound screening of a AAA is
@@ -962,7 +977,7 @@ determine in stent restenosis.[@chi2009; @schäberle2016]
 
 ## Venous {#sec-venous}
 
-**Venous Exam:** Uses a linear transducer. Complete deep venous reflux
+**Venous Exam:** Uses a linear transducer. Complete deep venous reflux
 duplex examination includes color and pulsed wave spectral doppler
 imaging. Spontaneous Doppler waveforms as well as provocative maneuvers
 are recorded in the common femoral, femoral, popliteal, and tibial deep
@@ -985,7 +1000,7 @@ normally demonstrate pulsatility and phasicity.
 
 **What does this mean? Pulsatility, phasicity, and augmentation**?
 
-**Pulsatility:** Refers to changes in the venous waveform in accordance
+**Pulsatility:** Refers to changes in the venous waveform in accordance
 with the cardiac cycle. Pulsatility is normal in the upper extremity
 veins central veins, given their proximity to the heart.
 
@@ -997,7 +1012,7 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide18.png"))
 
 This is an abnormal finding in the lower extremity veins, and may be a
 sign of pulmonary hypertension, right heart failure, or tricuspid
-regurgitation.
+regurgitation.[@kakish1996; @mcclure2000]
 
 **Phasicity:** (also called respiratory phasicity) is variation in the
 waveform with respiration. This results from increasing and decreasing
@@ -1047,7 +1062,7 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide21.png"))
 Consensus guidelines suggest a cutoff value of 1 second for abnormally
 reversed flow (reflux) in the femoral and popliteal veins and of 0.5
 seconds for the great saphenous vein, small saphenous vein, tibial, and
-deep femoral veins.[@gloviczki2011; @labropoulos2003]
+deep femoral veins.[@gloviczki2011; @lurie2012; @labropoulos2003]
 
 [Perforator veins:]{.underline} Perforator veins connect the deep and
 superficial venous systems, penetrating the deep fascia overlying the
@@ -1059,11 +1074,11 @@ non-healed ulcer.
 **What are some other examples of reflux?**
 
 [Ovarian vein reflux:]{.underline} The ultrasound evaluation of pelvic
-congestion syndrome is performed in steep reverse Trendelenburg and
-standing positions with a low-frequency probe. Reflux is identified
-during the Valsalva maneuver. There are no validated criteria for the
-duration of reflux. Rather, an ovarian vein diameter \>6 mm is
-considered significant.
+congestion syndrome is performed in a fasting patient in steep reverse
+Trendelenburg and standing positions with a low-frequency probe. Reflux
+is identified during the Valsalva maneuver. There are no validated
+criteria for the duration of reflux, rather, an ovarian vein diameter
+\>6 mm is considered significant.
 
 ### May Thurner Syndrome
 
@@ -1077,8 +1092,21 @@ thrombosis](https://radiopaedia.org/articles/deep-vein-thrombosis?lang=us).
 Notably, patients present with unilateral (left) lower extremity edema
 and pain, varicosities, DVT or venous ulcers. Intravascular ultrasound
 will demonstrate \>50% stenosis of the iliac vein from compression.
-Distal waveforms will demonstrate absence of phasicity if
-obstruction/stenosis is severe with continuous flow.
+
+Iliac obstruction, whether a result so May Thurner or not, would
+demonstrate continuous flow with a loss of phasicity and reduced
+augmentation with distal compression or valsalva. Additional indirect
+ultrasound findings include collaterals and reversal of flow. Direct
+ultrasound findings include intraluminal changes.[@metzger2016]
+
+### Nutcracker Syndrome
+
+Nutrcracker syndrome is most often diagnosed based on IVUS, venogram or
+renal vein pressures, but there are also diagnostic criteria for duplex
+ultrasonography. The left renal vein velocity ratio is the velocity at
+the aortomesenteric angle divided by the velocity near the left renal
+hilum. A ratio greater than 5 has a sensitivity of 80% and specificity
+of 94% for Nutcracker syndrome.[@kim1996; @kim2019]
 
 ### **Thrombosis**
 
@@ -1097,28 +1125,29 @@ greater than the diameter of the adjacent artery. Venous wall
 thickening/scarring, a contracted vein, recanalization, and collaterals
 are found in chronic thrombosis.
 
-When performing a DVT scan, the technician should evaluate the
-contralateral femoral vein flow to compare flow
-patterns.[@needleman2018; @societyforvascularultrasound2019] More
-proximal venous obstruction will demonstrate loss of respiratory
-variation, constricted/scarred/thickened vein, and poor augmentation
-with distal compression.
+Components of a lower extremity DVT study include doppler waveforms in
+response to provocative maneuvers in the common femoral, femoral and
+popliteal veins. When performing a DVT scan, the technician should
+evaluate the contralateral femoral vein flow to compare flow
+patterns.[@needleman2018; @societyforvascularultrasound2019] Transverse
+views are used for compression and compressibility testing every 3-5cm
+is the most reliable evaluation for thrombus.[@malgor2013]
 
-**Let's discuss 2 Specific examples of venous thrombosis: VTOS and
-EHIT**
+**Let's discuss some examples of venous thrombosis**
 
-[Venous TOS:]{.underline} Venous thoracic outlet syndrome is thrombosis
-or severe stenosis of the subclavian or axillary veins secondary to
-chronic extrinsic mechanical compression. Repetitive injury to the
-subclavian vein at the level of the costoclavicular space results in
-chronic injury to the veins. Venous duplex may show a dilated,
-non-compressible vein consistent with an acute subclavian vein DVT, or
-lack of pulsatility/phasicity if obstruction/stenosis is more centrally
-located.
+**Venous TOS:** Venous thoracic outlet syndrome is thrombosis or severe
+stenosis of the subclavian or axillary veins secondary to chronic
+extrinsic mechanical compression. Repetitive injury to the subclavian
+vein at the level of the costoclavicular space results in chronic injury
+to the veins. Venous duplex may show a dilated, non-compressible vein
+consistent with an acute subclavian vein DVT, or lack of
+pulsatility/phasicity if obstruction/stenosis is more centrally located.
+Duplex ultrasound is 81-100% sensitive for diagnosing upper extremity
+DVT.@mustafa2002
 
-[EHIT or Endovenous Heat Induced Thrombosis:]{.underline} S/p endovenous
-thermal ablations (RFA or laser ablation) of the GSV. 4 Grades: Grade 1
-is thrombus in the GSV up to the level of the CFV. If \< 50% of the CFV
+**EHIT or Endovenous Heat Induced Thrombosis:** S/p endovenous thermal
+ablations (RFA or laser ablation) of the GSV. 4 Grades: Grade 1 is
+thrombus in the GSV up to the level of the CFV. If \< 50% of the CFV
 lumen is involved this is EHIT grade 2. EHIT grade 3 is extension into
 the CFV occupying \>50% of the lumen and grade 4 is occlusion of the
 CFV.
@@ -1133,21 +1162,31 @@ EHIT grades 3-4 are typically treated with anticoagulation to reduce
 risk of PE. To minimize the risk of EHIT, the catheter should be
 positioned at least 2 cm from the saphenofemoral junction.
 
+**Superficial vein thrombosis:** when scanning for superficial vein
+thrombosis, pornographers should scan superficial and deep veins of the
+ipsilateral leg and the contralateral central veins with doppler wave
+form, because the incidence of concomitant thrombosis is not
+insignificant.[@decousus2010; @iac2021;
+@societyforvascularultrasound2019] This is discussed more in our venous
+chapter: \@ref(superficial-vein-thrombosis)
+
 ### Vein Mapping
 
 One additional venous study often performed in the lower extremity is
 mapping of the GSV for planning lower extremity bypasses. Mapping should
 identify the general course of the GSV and any major tributaries,
 particularly if the anterior or posterior accessory veins are of a size
-that might be a reasonable additional conduit. Sonographers should also
-make note of any significant areas of tortuosity or aneurysm that might
-compromise the quality of the bypass conduit. Size measurements are
-usually made along the GSV.
+that might be a reasonable additional conduit.[@cohn2006] Sonographers
+should also make note of any significant areas of tortuosity or aneurysm
+that might compromise the quality of the bypass conduit. Size
+measurements are usually made along the GSV.
 
 In general the ideal size for conduit is 3-4mm throughout it's length,
 with a size of greater than 2mm at the ankle.[@leopold1989] These size
 assessments are usually the same regardless of whether the vein will be
-fully harvested and reversed or utilized in situ.
+fully harvested and reversed or utilized in situ. The small saphenous
+vein can be utilized for a conduit if the GSV is not adequate and the
+diameter is 3-4mm.[@chang1992; @nierlich2019]
 
 ## Artifacts
 
@@ -1168,10 +1207,14 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide24.png"))
 
 Practically speaking, this most typically occurs deep to strongly
 reflective surfaces such as calcified plaques, and appears as a "dark
-area" beneath the plaque. **Acoustic enhancement** is essentially the
-inverse situation, and appears as a "bright area" deep to structures
-that transmit ultrasound waves exceptionally well. This can happen deep
-to fluid-filled structures such as cysts.
+area" beneath the plaque. Subcutaneous air can result in shadowing and
+loss of imaging information, which can be seen in some soft tissue
+necrotising infections.[@thom2017]
+
+**Acoustic enhancement** is essentially the inverse situation, and
+appears as a "bright area" deep to structures that transmit ultrasound
+waves exceptionally well. This can happen deep to fluid-filled
+structures such as cysts.
 
 **Mirroring**: A mirror-image artifact is caused by reverberation of
 ultrasound and shows structures that exist on one side of a strong
@@ -1186,7 +1229,9 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide25.png"))
 This is often seen around the pleura and the diaphragm, due to the
 strong reflection of ultrasound from the air-filled lung. These
 artifacts can occur in both B-mode imaging where you see the mirrored
-image and Doppler, in which you see the mirrored waveform.
+image and Doppler, in which you see the mirrored waveform. The clavicle
+is also a strong spectral reflector, and thus can result in a mirror
+effect and a duplicate subclavian artery.[@rubin2010]
 
 **Refraction:** A refraction artifact is the result of ultrasound waves
 passing through tissues with different propagation velocities (such as
@@ -1207,7 +1252,8 @@ of a needle when it passes from soft tissue into a cystic structure.
 **Inappropriate color gain:** Overly gained images will show "speckling"
 in areas in which no flow is present (such as in soft tissue).
 Increasing the gain, increases both the signal and the
-noise.[@kremkau2021]
+noise.[@kremkau2021] The noise added to the spectral waveform can result
+in PSV overestimation.
 
 ```{r echo=FALSE}
 
@@ -1217,9 +1263,11 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide26.png"))
 
 Under-gaining will result in reduced sensitivity to low velocity flow.
 
-**Inappropriate angle correction:** Make sure the angle correction
+**Inappropriate angle correction:** Make sure the angle correction
 cursor is centered in the vessel and parallel to the walls, otherwise
-the Doppler velocity measurement will be incorrect.
+the Doppler velocity measurement will be incorrect. Increasing the
+doppler angle will increase the velocity measurement (if no change to
+angle correction is made).
 
 ```{r echo=FALSE}
 
@@ -1230,7 +1278,7 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide27.png"))
 Finally, can we talk about aliasing, as I feel like this comes up a lot
 on exams:
 
-**Aliasing:** Unlike [continuous wave
+**Aliasing:** Unlike [continuous wave
 Doppler](https://radiopaedia.org/articles/continuous-wave-doppler?lang=us),
 pulsed wave and color flow Doppler are characterized by rapid pulses of
 ultrasound waves (at a rate called the pulse repetition frequency). The
