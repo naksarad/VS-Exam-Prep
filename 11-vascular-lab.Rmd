@@ -1133,6 +1133,22 @@ EHIT grades 3-4 are typically treated with anticoagulation to reduce
 risk of PE. To minimize the risk of EHIT, the catheter should be
 positioned at least 2 cm from the saphenofemoral junction.
 
+### Vein Mapping
+
+One additional venous study often performed in the lower extremity is
+mapping of the GSV for planning lower extremity bypasses. Mapping should
+identify the general course of the GSV and any major tributaries,
+particularly if the anterior or posterior accessory veins are of a size
+that might be a reasonable additional conduit. Sonographers should also
+make note of any significant areas of tortuosity or aneurysm that might
+compromise the quality of the bypass conduit. Size measurements are
+usually made along the GSV.
+
+In general the ideal size for conduit is 3-4mm throughout it's length,
+with a size of greater than 2mm at the ankle.[@leopold1989] These size
+assessments are usually the same regardless of whether the vein will be
+fully harvested and reversed or utilized in situ.
+
 ## Artifacts
 
 Finally, let's wrap up this episode with a discussion of imaging
