@@ -1028,13 +1028,15 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide20.png"))
 
 **What are venous pathologies that are commonly tested/encountered?**
 
-[Reflux:]{.underline} Venous reflux due to valvular incompetence is best
-assessed with duplex scanning in the upright position. Reflux in the
-common femoral vein and the saphenofemoral junction may be elicited with
-a Valsalva maneuver (which increases intra-abdominal pressure), but
-release of a pneumatic cuff compression is a more reproducible method.
-Reflux is identified as reverse flow - that is, away from the heart -
-following valsalva or release of the compression cuff.
+### Reflux
+
+Venous reflux due to valvular incompetence is best assessed with duplex
+scanning in the upright position. Reflux in the common femoral vein and
+the saphenofemoral junction may be elicited with a Valsalva maneuver
+(which increases intra-abdominal pressure), but release of a pneumatic
+cuff compression is a more reproducible method. Reflux is identified as
+reverse flow - that is, away from the heart - following valsalva or
+release of the compression cuff.
 
 ```{r echo=FALSE}
 
@@ -1045,13 +1047,14 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide21.png"))
 Consensus guidelines suggest a cutoff value of 1 second for abnormally
 reversed flow (reflux) in the femoral and popliteal veins and of 0.5
 seconds for the great saphenous vein, small saphenous vein, tibial, and
-deep femoral veins.
+deep femoral veins.[@gloviczki2011; @labropoulos2003]
 
-[Perforator veins:]{.underline} Perforator veins connect the deep and
+[Perforator veins:]{.underline} Perforator veins connect the deep and
 superficial venous systems, penetrating the deep fascia overlying the
-muscle.  Size \>3.5 mm and reflux \>350 ms (deep to superficial) is
-associated with perforator reflux. Pathological perforators are found in
-association with a healed or non-healed ulcer.
+muscle. Size \>3.5 mm and reflux \>350 ms (deep to superficial) is
+associated with perforator reflux.[@min2003; @odonnell2014; @sandri1999]
+Pathological perforators are found in association with a healed or
+non-healed ulcer.
 
 **What are some other examples of reflux?**
 
@@ -1062,12 +1065,14 @@ during the Valsalva maneuver. There are no validated criteria for the
 duration of reflux. Rather, an ovarian vein diameter \>6 mm is
 considered significant.
 
-[May Thurner]{.underline}**:** Also known as iliac vein compression
-syndrome, refers to a chronic compression of the left [common iliac
+### May Thurner Syndrome
+
+May Thurner syndrome is also known as iliac vein compression syndrome,
+refers to a chronic compression of the left [common iliac
 vein](https://radiopaedia.org/articles/common-iliac-vein?lang=us) by the
-overlying right [common iliac
+overlying right [common iliac
 artery](https://radiopaedia.org/articles/common-iliac-artery?lang=us) (CIA),
-with or without [deep venous
+with or without [deep venous
 thrombosis](https://radiopaedia.org/articles/deep-vein-thrombosis?lang=us).
 Notably, patients present with unilateral (left) lower extremity edema
 and pain, varicosities, DVT or venous ulcers. Intravascular ultrasound
@@ -1075,7 +1080,7 @@ will demonstrate \>50% stenosis of the iliac vein from compression.
 Distal waveforms will demonstrate absence of phasicity if
 obstruction/stenosis is severe with continuous flow.
 
-**Ok, let's transition from reflux to thrombosis:**
+### **Thrombosis**
 
 [Thrombosis:]{.underline} Characteristics of acute thrombus are an
 echolucent and incompressible thrombus in a thin-walled vein with

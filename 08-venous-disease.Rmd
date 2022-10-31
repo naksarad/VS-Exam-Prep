@@ -47,7 +47,7 @@ But between C3 and C6. In practice, it is used to describe the entire
 spectrum of venous disease ranging from thread veins C1 all the way up
 to venous ulceration. But technically it is C3 to C6. And I would urge
 anybody who is learning about the terminology to look at the vein term
-documents.
+documents.[@eklöf2004; @eklof2009]
 
 And silly little things like great saphenous vein and small saphenous
 vein--I think UK is the only place where long saphenous is ever used and
@@ -62,6 +62,12 @@ nicer, people wearing shorts, you're spotting, venous disease all over
 the place. The studies that have been done indicate that at least a
 quarter, probably up to a third of people have C2 to C6 disease. So a very
 common problem, with lots of people that need treatment.
+
+The Edinburgh Vein Study found that half of the general populatino with
+chronic venous disease deteriorated over the 13 year study. Factors
+associated with disease progression included family/personal history of
+DVT. Of note, female gender, obesity, number of pregnancies, and smoking
+status were not associated with progression.[@lee2015]
 
 **Now we would like to discuss the classification and scoring systems,
 you mentioned CAEP, could you expand on that?**
@@ -139,9 +145,9 @@ assessment of every venous patient. So that's the foundation.
 **Moving on to the treatment of superficial disease. When we talk about
 treatment of superficial venous incompetence, I don't think we can
 really get away from talking about the two major studies, the
-ESCHAR[\@gohel2007]** and the EVRA[@gohel2018] **studies, which I know
-you've been involved with. Can you review what these studies showed and
-their importance in the care of our patients.**
+ESCHAR**[@gohel2007] **and the EVRA**[@gohel2018] **studies, which I
+know you've been involved with. Can you review what these studies showed
+and their importance in the care of our patients.**
 
 Before I go into the trials, I'm just going to go back a step and just
 talk about the general mindset that's important for these patients. So
@@ -149,8 +155,11 @@ what we're treating with these patients is not superficial venous
 reflux. What we're treating is chronic venous hypertension. So we're
 treating a pathophysiological entity of which the superficial
 reflux is one correctable factor. And the reason that's important is
-that there may be other correctable factors, such as venous outflow
-obstruction, which may be addressed.
+that there may be other correctable factors, such as venous outflow obstruction, 
+which may be addressed. Decision making also takes into account patient presentation. For
+example a patient with asymptomatic varicose veins, even with proximal
+obstruction and superficial reflux, should still only be treated with
+compression.[@vandenboezem2011; @wittens2015]
 
 But there are also going to be lots of uncorrectable factors, such as poor
 mobility, heart failure, dependency, ankle stiffness. If your ankle is
@@ -203,6 +212,18 @@ clinical effectiveness after foam sclerotherapy.
 
 So I think the most important thing is not necessarily what you use,
 it's doing it quickly and delivering it to the people that need it.
+However, there are a few relative contraindications to GSV
+ablation.[@atasoy2015; @gloviczki2011; @kabnick2019] These include:
+
+-   GSV \>12mm width raises concern for incomplete obliteration
+
+-   Superficial GSV unlikely to be pushed down with tumescence - could
+    cause staining or thermal injury to the skin
+
+-   GSV tortuosity may limit the ability to pass a catheter and
+    sufficiently ablate the vein
+
+-   Acute superficial vein thrombosis.
 
 **When we are consenting patients for endovenous intervention, what
 risks should we discuss with the patient and that they need to be aware
@@ -212,7 +233,18 @@ You can spend an hour doing this, if you're being very diligent. But
 what I say to patients are that there are generic risks of venous
 thromboembolism, as is the risk of any intervention. And I think that's
 worthy of specific discussion after endovenous procedures, but I quote a
-risk of around one in 200 for most endovenous interventions.
+risk of around one in 200 for most endovenous interventions. Extension
+of proximal thrombus into the deep system is termed endothermal
+heat-induced thrombosis (EHIT) and is evaluated and treated more
+aggressively in the United States.[@sadek2013; @kabnick2021] EHIT is
+defined as:
+
+| EHIT Grade | Description                                            | Treatment                            |
+|:-----------:|-----------------------------------|-------------------------|
+|     1      | Extension to SFJ                                       | None                                 |
+|     2      | Extension into deep system \<50% of lumen diameter     | Close observation vs anticoagulation |
+|     3      | Extension into the deep system \>50% of lumen diameter | Anticoagulation                      |
+|     4      | Occlusion of the femoral or popliteal vein             | Anticoagulation                      |
 
 There's always a risk of bruising. And if you do phlebectomies, what I
 often tell people is that bruising sometimes looks worse than it feels.
@@ -225,22 +257,35 @@ that's injected into the vein that destroys the endothelium. And there are
 some people that have associated foam sclerotherapy with some
 neurological events. So a very large registry that was organized by the
 manufacturers of STS recently looked at 10,000 patients in the UK and
-found very few events-around one in 4-5,000. Some people say that if
-there is a history of migraine, then the risk of these neurological
-events might be a little bit higher.
+found very few events-around one in 4-5,000.
 
-So, a little bit of caution, although in practice, I've treated many
-people with migraines. But if you believe the literature, one in four or
-five, people have got a little ASD and obviously we treated lots of
-those people, so the risks are very low but it's just important to have
-that discussion beforehand.
+There are a number of complications related to sclerotherapy that should
+be understood. Hyperpigmentation is probably the most common
+complication (11-80%), but only a small percentage persist up to a year
+(1-2%). Incision and drainage of the thrombus 2-4 weeks after treatment
+may reduce hyperpigmentation. New appearance of fine red telangiectasias
+(AKA telangiectatic matting) is related to underlying vessel injury in
+5-57% of patients and can persist up to 1 year (1%). Cutaneous necrosis
+is rare (\<1%) and results from extravasation of sclerosing agent,
+injection into dermal arteriole, reactive vasospasm or excessive
+cutaneous pressure. DVT and cutaneous nerve injury are also
+rare.[@bergan2006; @munavalli2007]
+
+Some people say that if there is a history of migraine, then the risk of
+these neurological events might be a little bit higher. So, a little bit
+of caution, although in practice, I've treated many people with
+migraines. But if you believe the literature, one in four or five,
+people have got a little ASD and obviously we treated lots of those
+people, so the risks are very low but it's just important to have that
+discussion beforehand.
 
 **Are there any techniques that we can use to mitigate some of these
 risks?**
 
 So I think VTE is something that is really worth specifically
 discussing. It's a very rare event after superficial venous
-interventions, but it's potentially catastrophic, with sometimes national press coverage for bad outcomes.  What we've got to
+interventions, but it's potentially catastrophic, with sometimes 
+national press coverage for bad outcomes.  What we've got to
 realize is that the rate of VTE events is very low, there are almost
 certainly some people that have a higher risk. And so what we've got
 to get slightly smarter about is identifying the people that have a
@@ -308,7 +353,11 @@ reflux, we know that a lot of these perforators actually become
 competent because we've got rid of the outflow or you've changed the
 dynamics in some other way, and they've become competent. Number two,
 even if they've stayed incompetent, the clinical benefit is still there
-and is usually still pretty durable.
+and is usually still pretty durable. The clinical criteria most often
+used to as an indication for treatment is \>350ms of deep to superficial
+reflux, diameter greater than 3.5mm (associated with reflux in 90% of
+patients)[@sandri1999] and near a healed or active ulcer.[@odonnell2014;
+@min2003; @rueda2013]
 
 Now, of course, there may be some people that develop recurrent problems
 and then there can be a more targeted approach to the perforator. The
@@ -352,7 +401,16 @@ five years. One was a GP, who I had treated the other leg with open
 surgery a few years earlier, and she said, "I want the same operation,
 please." So I did struggle to argue with that. The other two were big
 three, four, five centimeters saphenovarices in the groin. So specific
-indications, but not really for most patients,
+indications, but not really for most patients.
+
+For deep venous reflux, surgical management follows a relatively complex
+algorithm.[@odonnell2014] Valve prolapse due to vein wall dilation may
+be treated with external banding. Isolated valve prolapse may be treated
+with external valvuloplasty, and in severe cases an internal
+valvuloplasty. When no adequate valve exists, then valve transplant from
+a distant source, such as the axilla, may be necessary.[@kabbani2011]
+These are not commonly performed procedures and should be referred to
+centers with significant experience.
 
 #### Medical Therapy
 
@@ -381,6 +439,11 @@ But I don't think we're very receptive in the UK in general, not in the
 vascular surgery community to prescribe pharmacological or herbal type
 remedies.
 
+Wound management in patients with venous insufficiency however has many
+medical adjuncts. Topic agents include excimer (cadexomer) iodine,
+silver sulfadiazine, silver-containing dressings, growth factors or
+cell-based therapy.
+
 **What are the healthcare costs associated with the lower extremity
 venous disease?**
 
@@ -390,7 +453,7 @@ the budget, and that's just C6 disease. We're not even going into all of
 the other diseases, the associated cellulitis, but also not only the
 healthcare costs, but the societal costs, the time off work, the other
 things. And then of course the superficial vein thrombosis, VTE and
-other associated diseases, it's a massive underestimate
+other associated diseases, it's a massive underestimate.
 
 ### Other Complications of Superficial Venous Disease
 
@@ -1093,7 +1156,10 @@ most of these cases. I still come across colleagues and other people who
 say, look, you shouldn't treat the superficial veins if there's deep
 reflux. But all the studies---EVRA, ESCHAR\--have shown significant
 benefits, even if there's deep flux.[@gohel2007; @gohel2018] So again,
-the key message is treat the superficial reflux if it's there.
+the key message is treat the superficial reflux if it's there. However,
+if the patient has isolated deep reflux then management is limited to
+wound care and compression, often as high as 40-50mmHg. Some series have
+found that 70-80% will heal.[@odonnell2014; @maleti2011]
 
 Now, deep venous obstruction and looking for it is a different matter.
 There are again, lots of approaches, some people are very aggressive
@@ -1364,3 +1430,58 @@ Transection of iliacs should only be used as a last resort if this
 fails. [@leeIliacVesselInjuries2002]
 
 For more on venous trauma, see \@ref(abdominal-venous).
+
+## Lymphedema
+
+Here we will discuss lymphedema of the lower extremity. This is a broad
+topic, but the management decisions are relatively straightfoward and
+knowledge is required for examinations. For upper extremity lymphedema,
+see \@ref(sec-upper-extremity-lymphedema).
+
+### Demographics
+
+#### Etiology
+
+Lymphedema can be thought of as a primary dysfunction of the lymphatic
+channels or the secondary result of a disease that results in the
+destruction of lymphatic flow. Causes of secondary lymphedema include
+filariasis, which is endemic to parts of South America.[@pfarr2009;
+@shenoy2008]
+
+#### Presentation
+
+The management of lymphedema is determined primarily on its clinical
+stage at presentation.[@grada2017] The staging for lymphedema is as
+follows:
+
+| Lymphedema Stage |        Description         | Symptoms                                                                 |
+|:--------------:|:---------------:|---------------------------------------|
+|        0         |        Sub-clinical        | No swelling, heaviness or discomfort                                     |
+|        1         |    Sponteous Reversible    | Swelling improved with limb elevation                                    |
+|        2         |  Spontaneous Irreversible  | Pitting and swelling, not improved with elevation                        |
+|        3         | Lymphostatic elaphantiasis | Skin hardening, non-pitting edema, verrucas changes, recurrent infection |
+
+### Evaluation
+
+On physical exam, a classic finding is Stemmer's sign, which is a
+thickened skin fold at the based of the second toe/finger. The sign is
+positive when the tissue is hardened and cannot be lifted.[@rockson1998;
+@rockson2019]
+
+Lymphedema is most often diagnosed based on clinical presentation and
+physical exam. Lymphoscintography can be used to confirm the diagnosis
+in complex presentations and would demonstrate dermal back flow, absent
+or delayed transport, crossover filling, absent or delayed visualization
+of lymph beds.[@rockson2019; @odonnell2017]
+
+### Management
+
+Treatment is best initially managed with combined decongestive therapy
+(CDT) which includes an intensive reductive phase (4-8wks), followed by
+life long maintenance, often with specific compression
+garments.[@grada2017] CDT in the setting of heart failure has been
+reported to lead to volume overload.[@lawenda2009]
+
+In extreme cases, after CDT therapy has been instituted for at least 6
+months and the patient has persistent refractory symptoms, surgery may
+be used for reconstruction or debulking.[@grada2017; @baumeister2016]
