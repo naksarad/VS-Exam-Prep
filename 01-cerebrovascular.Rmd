@@ -8,8 +8,8 @@ editor_options:
 
 **UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
 
-Authors: *Adam Johnson, MD, MPH; Nicole Rich, MD, MPH; Kevin
-Kniery, MD, MPH*
+Authors: *Adam Johnson, MD, MPH; Nicole Rich, MD, MPH; Kevin Kniery, MD,
+MPH*
 
 Contributors: *Eilidh Gunn, MBChB, MRCSEd*
 
@@ -41,14 +41,14 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
     (NIHSS).[@fischer2010]
 
     A particularly confusing distinction is between a crescendo TIA and
-    a stroke in evolution. A crescendo TIA is frequent repetitive neurological
-    attacks without complete resolution of the deficit between the
-    episodes, usually over a 24 hour period. The result of which is the
-    same neurological deficit. If the patient exhibits progressive
-    deterioration in neurological function between TIA episodes this is
-    classified as a stroke in evolution not a crescendo TIA.[@ricotta]
-    These are both particularly concerning findings and may be an
-    indication for an emergent intervention.
+    a stroke in evolution. A crescendo TIA is frequent repetitive
+    neurological attacks without complete resolution of the deficit
+    between the episodes, usually over a 24 hour period. The result of
+    which is the same neurological deficit. If the patient exhibits
+    progressive deterioration in neurological function between TIA
+    episodes this is classified as a stroke in evolution not a crescendo
+    TIA.[@ricotta] These are both particularly concerning findings and
+    may be an indication for an emergent intervention.
 
 2.  **Who needs to be screened for carotid disease?**
 
@@ -431,7 +431,7 @@ timelines[@powers2018GuidelinesEarly2018]
 -   Recommend f/u US duplex of bilateral carotids at \</=30 days. \>/=
     50% stenosis further imaging is indicated.
 
--   Ipsilateral stenosis
+-   Ipsilateral restenosis
 
     -   0-3mo likely due to inadequate endarterectomy or clamp
         injury.[@kang2014]
@@ -440,6 +440,13 @@ timelines[@powers2018GuidelinesEarly2018]
         stenosis and asymptomatic, then duplex surveillance and
         antiplatelet. If progresses, then often endo treatment
         first.[@garzon-muvdi2016]
+
+    -   Risk factors for restenosis include
+        hyperlipidemia[@lamuraglia2005], female gender, primary closure
+        without patch, younger age, and certain plaque
+        characteristics-abundance of smooth muscle, absence of
+        macrophages/lymphocytes, and lipid core \<10%.[@hellings2008;
+        @pauletto2000]
 
 -   Contralateral stenosis:
 
