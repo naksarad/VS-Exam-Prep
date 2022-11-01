@@ -228,10 +228,23 @@ timelines[@powers2018GuidelinesEarly2018]
     -   Other contraindications include - hypertension, intracranial
         hemorrhage, recent stroke or cranial trauma, spine/brain surgery
         within 3 months, GI bleed within 21 days.
+    -   BP management post stroke **with thrombolysis** includes
+        treatment of BP to \<185/110 prior to administration of
+        thrombolysis, then keeo \<180/105 for 24hrs post administration.
 
 -   \<6 hours from onset of symptoms - catheter directed therapy
 
 -   After 6 hours, there is limited benefit to thrombolytic therapy.
+
+    -   BP management post stroke **without thrombosis** includes an
+        initial period of permissive hypertension, treat only if
+        \>220/120. Slowly lower BP to target of 140/90 over 7-14d -
+        particularly important to go slow in patients with intra- or
+        extra-cranial large vessel stenosis.
+
+        -   Contraindications to permissive hypertension include active
+            CAD, heart failure, aortic dissection, hypertensive
+            encephalopathy.
 
 ### Surgery - Carotid Endarterectomy
 
