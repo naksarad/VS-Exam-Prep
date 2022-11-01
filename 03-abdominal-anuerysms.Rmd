@@ -98,6 +98,9 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     proteases and antiproteases cause degradation of the extracellular
     matrix and loss of structural integrity of the aortic wall.
 
+    -   Nicotine increases MMP expression in vascular smooth muscle
+        cells.[@li2012; @rabkin2016]
+
 -   Increased thrombus burden is associated with wall thinning, medial
     loss of smooth muscle cells, elastin degradation, adventitial
     inflammation and aortic wall hypoxia which all increase the rate of
@@ -127,6 +130,9 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 -   Cigarette smoking is the single most important modifiable risk
     factor to prevent occurrence and growth of AAAs. Smoking increases
     the rate of growth by 35% for abdominal aortic aneurysms.
+
+    -   Smoking has a dose dependent relationship with AAA, smoking 1/2
+        ppd has one third the risk of smoking 1 ppd.[@kent2010]
 
 -   Medical therapy has been studied with disappointing results.
     Beta-blockers and ACE/ARB inhibitors have been studied but have not
@@ -394,7 +400,8 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         -   Pulmonary function test with ABG (Level 2, Grade C)
 
         -   Smoking cessation for at least 2 weeks prior (Level 1, Grade
-            C)
+
+            C)  
 
         -   Pulmonary bronchodilators at least 2 weeks before aneurysm
             repair (Level 2, Grade C)
@@ -884,6 +891,12 @@ repair.** [@mooreVascularEndovascularSurgery2019;
 
 -   Myocardial dysfunction which is usually secondary to cardiac
     ischemia or hemorrhage.
+
+    -   Acute conditions associated with poor post-operative cardiac
+        outcomes include recent MI (30d), unstable angina, decompensated
+        heart failure, high-grade arrhythmias, severe valvular
+        disease.[@devereaux2015; @fleisher2014; @kristensen2014;
+        @tashiro2014]
 
 -   Abdominal compartment syndrome secondary to coagulopathic bleeding
     postoperatively or third spacing of fluids can cause abdominal
