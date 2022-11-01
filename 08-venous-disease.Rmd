@@ -243,7 +243,7 @@ heat-induced thrombosis (EHIT) and is evaluated and treated aggressively
 in the United States.[@sadek2013; @kabnick2021] EHIT is defined as:
 
 | EHIT Grade | Description                                            | Treatment                            |
-|:---------------:|--------------------------------|-----------------------|
+|:----------------:|-------------------------------|-----------------------|
 |     1      | Extension to SFJ                                       | None                                 |
 |     2      | Extension into deep system \<50% of lumen diameter     | Close observation vs anticoagulation |
 |     3      | Extension into the deep system \>50% of lumen diameter | Anticoagulation                      |
@@ -325,7 +325,7 @@ before and after the procedure.
 
 For preventing EHIT specifically, the radiofrequency ablation (RFA)
 catheter should be placed 2cm from the SFJ. EHIT is a primarily
-technical complication.@joh2014
+technical complication.\@joh2014
 
 **You mentioned it an extended course of anticoagulation for those
 patients with risk factors. Is there a specific timescale locally that
@@ -699,6 +699,12 @@ One unique situation is recurrent or migratory superficial vein
 thrombosis, particularly in older patients, can be associated with an
 underlying malignancy.[@litzendorf2011]
 
+For patients with established diagnosis of thrombophilia (Factor V
+Leiden homozygous mutation, antithrombin deficiency, prothrombin G20201A
+homozygous) who become pregnant, recommendations state they should be on
+LMWH prophylaxis during pregnancy and 6w postpartum regardless of
+personal history of DVT.[@heit2005]
+
 ### Evaluation
 
 **What is the algorithm for investigation?**
@@ -767,6 +773,46 @@ The one very notable exception is antiphospholipid syndrome,
 particularly triple positive antiphospholipid syndrome. This is a pretty
 nasty acquired thrombophilia where Warfarin is still the gold
 standard.[@pengo2018]
+
+To step back a little, trainees should make sure they understand some
+basics behind the coagulation pathway and anticoagulants. Warfarin is
+one of the most studied and longest used anticoagulants and is a Vitamin
+K antagonist. Vit K is essential for activation of factors IX, X, VII,
+prothrombin (II), C and S, which are integral to the extrinsic pathway
+of coagulation.[@fair1986; @wu1991] The extrinsic pathway is activated
+by vessel wall damage and exposure of tissue thromboplastin or tissue
+factor (TF), which binds Factor VIIa activating Factor X and
+Xa.[@morrissey2001]
+
+Warfarin induced skin necrosis is important to understand, although very
+rare (0.01-0.1%). This occurs shortly after initiating warfarin and
+presents with purple, cool, painful toes and punctate areas of necrosis
+and petechiae. Treatment includes immediate cessation of warfarin and
+transition to LMWH, normalization of INR with Vit K and
+FFP.[@pourdeyhimi2014; @tran2013]
+
+Reversal agents are also another tested topic in the medical management
+of vascular disease. Other anticoagulants and their reversal agents
+include:
+
+-   Dabigitran - Idarucizumab.[@glund2019]
+
+-   Edoxaban, apixiban and rivaroxaban - andexanet-alfa.[@connolly2019]
+
+-   Nonspecific with some effect on other DOACs - PPC, Factor 7, and
+    activated PPC.[@cuker2019; @kearon2016]
+
+Finally it is also good to be aware of a few additional coagulation
+factors and their function:
+
+-   Integrin glycoprotein GPIa/IIa - platelet aggregation
+
+-   Protease-activated receptors (PARs) - platelet aggregation
+
+-   Thrombomodulin - activation of protein C
+
+-   Plasminogen activator inhibitor-1 - suppression of plasmin
+    formation/fibrinolysis.
 
 **Patients with a proximal DVT, in the iliofemoral or the
 femoropopliteal segment, is there a role for elastic compression in the
@@ -1469,7 +1515,7 @@ stage at presentation.[@grada2017] The staging for lymphedema is as
 follows:
 
 | Lymphedema Stage |        Description         | Symptoms                                                                 |
-|:---------------:|:---------------:|-------------------------------------|
+|:----------------:|:----------------:|------------------------------------|
 |        0         |        Sub-clinical        | No swelling, heaviness or discomfort                                     |
 |        1         |    Sponteous Reversible    | Swelling improved with limb elevation                                    |
 |        2         |  Spontaneous Irreversible  | Pitting and swelling, not improved with elevation                        |
