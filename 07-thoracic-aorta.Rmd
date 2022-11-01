@@ -241,12 +241,13 @@ Operative treatment. 30% op mortality. Cardiothoracics take the lead on
 this one. However vascular surgeons should be involved in the management
 of type A as after the repair, a type A can become a functional type B.
 
-Type B is in the realm of vascular surgery. What is the first management
-step after we have diagnosed a type B dissection?
+**Type B is in the realm of vascular surgery. What is the first
+management step after we have diagnosed a type B dissection?**
 
-Invasive impulse therapy. That means redusing the force of transmitted
-impulse down the aorta. Blood pressure goals of 100-120mmHg. Hr \<
-60bpm.
+Invasive impulse therapy aimed to reduce aortic wall
+stress.[@hughes2013; @nienaber2015] That means reducing the force of
+transmitted impulse down the aorta with blood pressure goals of
+100-120mmHg and Hr \< 60bpm.
 
 **How would you achieve that?**
 
