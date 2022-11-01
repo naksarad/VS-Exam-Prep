@@ -477,7 +477,7 @@ sometimes that's a luxury for those of you who are in a deployed
 setting. But these are the top line things to think about with popliteal
 artery exposure.
 
-\*\*From one of my own clinical experiences, especially in young
+From one of my own clinical experiences, especially in young
 patients, with repairing or bypassing the popliteal artery, many times
 these patients have very severe vasospasm at the end of the case. So
 that, even though you may do a beautiful bypass, you have minimal
@@ -764,7 +764,7 @@ left and exposing the retroperitoneum.
 
 Check out this [video](https://www.youtube.com/watch?v=KVuMiAuw5zc) for an example of a right medial visceral rotation.
 
-**The technique for exposure of the infrarenal aorta**
+**Technique for exposure of the Infrarenal Aorta**
 
 The exposure of the infrarenal aorta is also called the transperitoneal
 inframesocolic exposure and is considered to be a straightforward
@@ -921,85 +921,184 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Vascular_Venous_Auphonic
 
 ```
 
-# Trauma - Abdominal Venous
+**Three Types of Major Abdominal Venous Injuries**
+1. Inferior Vena Cava (IVC) 
+	- Most commonly seen in blunt liver injury due to relationship of liver with IVC 
+2. Portal Vein
+3. Superior Mesenteric Vein (SMV) 
 
-**Kevin:** 
+**General Principles**
+1. Pre-operative planning with appropriate resuscitation and blood products available 
+2. Keep in mind coordination with other surgical teams and anesthesia 
+3. Patients with abdominal venous injuries likely to be polytrauma patients, approach to assess and repair injuries should be time efficient
 
-Okay and welcome back to the behind the knife and audible bleeding vascular trauma podcast series with our guest Dr. Todd Rasmussen Dr. Rasmussen is a Colonel in the United States air force and is a professor of surgery and associate Dean of research at the uniform services university of health sciences in intending vascular surgeon at Walter Reed military medical center thank you Dr. Rasmussen for coming back on a joint podcast to help us learn about trauma 
+**Inferior Vena Cava** 
+Anatomy 
+- Can be divided into 4 segments
+	- Infrarenal segment 
+		- From inferior portions of renal veins to iliac bifurcation
+	- Renal/Suprarenal segment 
+		- 2-3 cm of IVC, from renal vein to inferior portion of hepatic veins 
+		- Includes renal veins and gonadal veins
+	- Retrohepatic segment 
+		- Includes hepatic veins 
+	- Suprahepatic segment 
+		- Includes phrenic veins and pericardium to right atrium
+		
+Exposure 
+- Infrarenal 
+	- Right medial visceral rotation (Cattell-Braasch maneuver) 
+	- Exposes in the proximal portion the IVC, inferior renal veins, 4th portion of duodenum, and pancreatic head
+	- Be aware of lumbar vessels posteriorly >> control with vessel loop or clamp
+- Renal/Suprarenal
+	- Right medial visceral rotation (Cattell-Braasch) and mobilizing liver cephalad
+	- Liver mobilization
+		- Divide the attachments of the liver to the diaphragm to be able to move liver cephalad 
+		- Caution as there are posterior lumbar veins and other branches that can cause more significant bleeding
+- Retrohepatic 
+	- Right medial visceral rotation (Cattell-Braasch) and mobilizing liver cephalad
+	- However, usually ideal to not expose because hemostasis is lost when liver is lifted off segment
+		- Prior defect with formed hemostatic thrombus can be torn off with this maneuver and cause more bleeding
+	- Better to leave liver in place and not expose area id not necessary
+- Suprahepatic
+	- Divide xiphoid to open costal margins (approximately 2-3 cm cephalad)
 
-**Rasmussen:** Sure it's a pleasure and I look forward to some of our discussion Thank you 
+**Management of IVC Injuries**
 
-**Kevin:** We're lucky enough to have one of my partners dr OD Hum A L muesli He's a chief resident at Cornell and he'll be helping us with this interview Thanks Adam
+Resuscitation is key in damage-control surgery 
 
-**Adham:** Thank you I'm happy to nerd out about some surgical technique Was a master here 
+Management is dependent on location of injury
 
-**Kevin:** So We're going to drive straight into abdominal venous injuries and we're going to keep it simple here When we're thinking of abdominal venous injuries we're gonna think of three types You have your IVC you have your portal vein and you have her superior mesenteric vein So we're going to break these down in order and discuss the approaches to exposing it and fixing it So of these doctor recipes and what what do you see most commonly 
+Interposition grafts not readily performed due to inefficiency of time
 
-**Rasmussen:** that's a great question is to which we see most commonly I think they're all relatively uncommon because of the frequency of blunt trauma especially in the civilian setting I suspect that blunt liver injury and the relationship between the liver and vena cava 
 
-**Kevin:** In our isolated injuries to the the IBC is there any non operative management that's a minimal for the IVC 
+Control of Bleeding 
+- IVC injuries considered Zone I retroperitoneal hematomas 
+- Follow general principles of gaining proximal and distal control 
+	- Can use low profile sponge sticks (Kittner sponge stick) or manual pressure
+	- Be prepared to refine where you control as the dissection progresses
+- May require Total Hepatic Isolation to locate bleeding behind the liver
+	- Isolate all bleeding from IVC and hepatic vein confluence 
+	- Control liver inflow
+		- PORTA HEPATIS (via Pringle maneuver) 
+			- Portal Vein
+				- Accounts for 70-80% of hepatic inflow
+			- Hepatic Artery 
+	- Control liver outflow
+		- HEPATIC VEINS
+			- Confluence of hepatic vein with IVC
+			- Can be accessed below diaphragm or in the chest
+- Other options for bleeding control if total hepatic isolation not successful
+	- Supraceliac aortic clamp
+		- can be considered if bleeding continues to help identify injury
+		- Last option, usually unsurvivable 
+	- Place patient on bypass 
+	- Atriocaval Shunt (Schrock shunt) (**INSERT ZOTERO REFERENCE SCHROCK ET AL**) 
+		- Shunts lower body blood to the right atrium 
+		- Can be accomplished with large chest tube with extra hole cut near base
+		- Chest tube clamped at base and inserted via purse string suture at the right atrial appendage > advanced to infrarenal IVC
+		- Place Rommel tourniquet below area of suprarenal IVC (above the renal veins and last hole in tube) 
+		- Second Rommel tourniquet placed above hepatic veins in intrapericardial IVC 
+		- Link for image of atrial caval shunt: <https://pbs.twimg.com/media/EXxZTaGXsAIdAiO?format=jpg&name=4096x4096> 
 
-so I think yeah I think there's a number of types of injuries Scenarios would be amenable to non operative management we just mentioned very briefly the retro Paddick cable injuries in fact most of the time if the patient and be stable and doesn't have other associated injuries that require exploring that area of the vena cava Oftentimes retro hepatic vena cave injury should be managed non-operative And that's of course the difficult nature of exposing that area of the of the VTK VA and the high risk of causing more bleeding with with that exposure because of the venous system the vena cable has a low pressure system infer renal vena cava injuries super Reno vena cave injuries or even super paddock can be well tolerated the nonoperative management cause it's a low low pressure system but in particular the retro retro Paddick a portion I think is 
 
-**Adham:** But you kind of touched on this a little bit but when when we talk about diversity We sort of divided into four segments anatomically because each of them has their own implications and difficulties The infer renal segment the super renal segment and then the retro paddock and through prophetic segments or the vena cava I think it's probably worth going through each of those segments And Discussing briefly exposure and I think we should spend some more time on retro hepatic but discussing exposure and then strategies for repair versus ligation and their implications in each of these segments 
+Non-operative management
+- Generally well-tolerated due to low pressure system and difficulty of exposure increasing risk of more bleeding 
+	- Especially for suprarenal and retrohepatic segments
+- Option for blunt mechanism of injuries
+- If patient is hemodynamically stable and there are no other associated injuries, can consider non-operative management with serial imaging (CT with contrast) 
 
-**Rasmussen:** Okay Yeah So I guess we'll start with the infer renal segment of the vena cava It's probably the most easy to expose this the infer renal Being a cable segment is best approached through a right visceral rotation meaning of bringing the right colon the and the viscera up cephalad in the retroperitoneal space to expose well to expose the vena cave in the infernal segment And That maneuver at its proximal most extent will will expose the the renal veins the fourth portion of the Dudina and the pancreatic head so that's that's the best way to expose that and then I think repair options there it depends upon the severity of the injury if it is A partial injury to the vena cava then hopefully primary repair you know the vena cave is quite large it has a large capacity and controlling that and and and and repairing an injured segment primarily with with a four O proline a suture example is pretty well tolerated If one feels like they're going to narrow the vena cava significantly than that's a different Consideration which includes then should the BTK would just be like as opposed to trying to repair the vena Cavan and leave it narrowed which then would predispose it to a thrombosis and potentially a life-threatening thromboembolism So that's sort of this infer renal segment I mean the I mean we could talk an hour on this segment in the vena cava Controlling is challenging because there's it bleeds black blood and in large quantities and oftentimes controlling proximately distance is not enough because there are lumbar vessels the lumbar veins that are back behind that if you know one doesn't control one of the large lumbar vessels that's coming into the vena cava Posterially you can have all the proximal and distal control that you want and you still can't see anything because you've missed a huge lumbar vessel That's you know lumbar vein that's feeding from the backside so one has to be mindful of that and try to either identify that and get it with with a clamp of some sort or get around it with a vessel loop or something to control it as we have said in other of our discussions none of these operations or these techniques take place in isolation and they've gotta be done in close communication with anesthesia and assure that anesthesia is not only Adhering to the principles of damage control resuscitation with you but they're also aware of these maneuvers whether it's losing large volumes of black blood from the vena cava or maybe like gating the vena cave and the infernal segment which is going to significantly reduce the inflow to the right heart 
 
-**Adham:** So two followup questions on the infer renal cable in general you said you use a O pulling to repair the Kiva Do you ever Pacific needle Probably a larger needle is better And then the second question is when you're doing and for renal cable ligation do you think we should be empirically doing a four compartment Fasciotomy is on these patients 
+Operative management 
+- Primary repair 
+	- Option for partial tears without risk of narrowing lumen
+		- Narrowing lumen increases risk of thrombosis and thromboembolism
+	- Recommend figure of 8 of 16 to repair with 4-0 prolene suture on SH (small half circle) needle 
+	- Tips 
+		- Larger needles are easier to visualize in cases with high amounts of bleeding
+		- When first suture is placed, recommend lifting on either side of suture with both strands to elevate the defect and maintain tension >> improves visualization and placement of subsequent sutures to achieve full thickness bites
 
-**Rasmussen:** Yeah So really good point about the needle size So I think a four O on an sh needle is imperative So these are the subtle parts that I think before someone tackles this needs to have in mind Generally you need to barge for suckers You know you've got to have headlights and extra set of hands because you know you may only have one or two shots at this you know controlling it and seeing where the bleeding's coming from And and to the best you can don't waste one of those opportunities cause what you're going to be able to do is control it with for example sponge or even your hand so you know while you've got a controlled then make sure you've got the right lights the right suction devices the right assistance blood in the room you know all of those things Take a deep breath and get all that squared away To your point of a needle the point here that we're talking about for your listeners is don't use too small of a needle a common mistake is a this has gotta be a dainty needle It's gotta be small because there's sewing on the BTK BA may be a Five-O or you know six O proline and I'll put it on an RB one or C one needle These are small needles and what happens is that needle You can't see it in all of the blood So an sh needle is really designed with a sort of a large arc that really can literally go underneath your finger and a four O proline will go on an sh needle So absolutely as far as the empiric performance of four compartment fash autonomies with ligation of the Munich kava I'm going to take a pass on that and say it depends I think it depends upon how much resuscitation the patients received meaning if they've received large volumes of fluid they're physiologically not well and you know you anticipate large sort of significant recovery burden then Yes I would probably do of fasciotomy is of the lower extremities and elevate those legs and do everything you can to keep the pressure down In contrast if the patient's physiologically pretty well that was a relatively small resuscitation then you know perhaps not I think it it just depends but you should be definitely mindful of it there's no doubt And and if you don't do the fast shot dummies recognize that she got to keep an eye on the leg and the legs elevator 
+- Ligation
+	- Well-tolerated for infrarenal segment IVC 
+	- Not a viable option renal/suprarenal, retrohepatic, and suprahepatic IVC due to compromised outflow of vital organ structures (ie kidneys and liver) 
 
-**Kevin:** So a doctor asked me he and I have to thank you we actually kind of talked about managing IVC injuries in our first episode So there's this is our third episode total We've covered lower extremity injuries We've covered abdominal aortic vascular trauma in today's our Venus But on our first episode we talked about using the large FORO needle and about a week after that episode we got called into a internal hemipelvectomy case which I didn't even know it was a case where the orthopedic surgeons were resecting this massive sarcoma off the pelvis and basically resecting half of the pelvis and they got into massive bleeding Basically they had gotten into the crotch of the IVC and had just extenuating hemorrhage near move their hands and using the large Mauro needle The large needle in the Fort with is really helpful A because like you said it how did you see it through all the bleeding And then the thing is nice about the FORO is you can really kind of crank down on it and and push You're not down there without worrying about it breaking And when you're in a in this case with lots of bleeding and there's five people around the operating table I found it really helpful so when we were in that case 
 
-**Rasmussen:** Good 
+Management of Infrarenal Segment IVC injuries 
+- Non-operative management
+	- Patient with blunt injuries and hemodynamically stables 
+- Operative Repair
+	- Preferred as exposure is easiest in comparison to all other segments 
+	- Primary Repair
+		- SH needle on 4-0 prolene 
+		- Avoid luminal narrowing of IVC to prevent thrombosis/thromboembolism
+	- Ligation
+		- Ligation can be tolerated 
+		- Ligation is appropriate when primary repair narrows lumen or if primary repair cannot be performed due to damage-control nature of operation
+		- Empirical 4-compartment fasciotomies of lower extremities is dependent on patient’s resuscitation status 
+		- Recommend fasciotomy if patient received large volumes of fluids/products, continues to be hemodynamically tenuous, anticipate long recovery
 
-**Adham:** You mentioned in your book chapter which I also have seen in some liver cases were injuries So that gave are made That's helpful is when you're placing these sutures into the vena cava if you're doing a figure of eight or a figure of 16 placing the first suture and then lifting on both of those strands of the suture up in the air to elevate the hole 
 
-**Rasmussen:** Yeah that's a an important part And I think you know I would go back to the fact that you you know you're only gonna get one or two maybe three chances at this So you know don't skive I mean don't be afraid to take too big a bite I mean you gotta get substance of the vessel and you got to get the bleeding control or you're just not going to to get to the next step So yeah So making that first pass that you think well this can be a figure vein it's a little bit blind It's not completely I'm not advocating for taking hail Mary you know I'm not saying that but But the point is be definitive about your suture placement and and go ahead and get full thickness by to the vessel wall then pull up on that and and that may help you expose you know each each injury is a little bit different but try to recognize that in order to get through it to that next step you're going to have to get a false full thickness bites of of even the vein you know and it in fact especially the vein right Because it's going to be more prone to tear So you really can't skimp on 
+Management of Renal/Suprarenal Segment IVC injuries 
+- Non-operative Management 
+	- Preferred due to location of injury >> similar to retrohepatic and suprahepatic segments 
+	- Exposure of segment may increase risk of bleeding, increase size of defect, or unroof hemostasis formed 
+- Operative 
+	- Primary Repair 
+		- Option if liver mobilization does not increase size of defect/tear
+		- Follow principles as described above
+	- Ligation 
+		- Not as well tolerated as infrarenal segment due to compromised of outflow to renal veins 
 
-And so once you go above the renal veins the kind of the ability to to Leggett completely changes and everywhere above that So can we talk a little bit about the anatomy of the super renal and then just briefly discuss retro paddock and super hepatic IVC 
+Management of Retrohepatic Segment IVC injuries
+- Non-operative Management 
+	- Preferred due to location of injury
+	- Liver provides hemostasis due to overlying pressure 
+	- If liver mobilized, can cause more significant bleeding 
+- Operative
+	- Primary Repair
+		- Not preferred 
+		- Option if patient continues to be hemodynamically unstable, requires blood products 
+		- Careful liver mobilization due to multiple branch points and high risk of tear > will likely require total hepatic isolation for bleeding control
+	- Ligation
+		- Not as well tolerated due to compromised outflow of both renal and hepatic veins, can cause both kidney and liver ischemia
 
-**Rasmussen:** Right So I guess we didn't really mention But the reason that the infer renal ligation can be tolerated it's not ideal but it patients will survive with ligating The Infor renal is because one has not disrupted the The venous outflow of the kidneys so with an infer renal ligation flow through the left and right renal veins is maintained and therefore kidney function is still preserved that has you referenced changes when the injury is above the renal veins in the super renal segment of the IBC and in those cases you're right ligation really isn't an option You know this is a very small segment as only a two or three centimeter segment of the IVC you know between the superior aspect of the renal vein and then the initiation of the drainage of the paddock veins you know the retro paddock So this is a very small segment and you know I think that if there's an injury in this segment it should be you know attempts should be made to primarily repair it if if you find yourself operating on it this also gets in this area where It really could also be almost considered retro Padick and certainly if these are blunt injuries or from a blunt mechanism you may not want to find yourself operating on that if the patient will give you that option 
+Management of Suprahepatic Segment IVC injuries 
+- Non-operative Management 
+	- Preferred due to location of injury, difficult to access
+	- Liver provides hemostasis due to overlying pressure 
+	- If liver mobilized, can cause more significant bleeding 
+- Operative
+	- Primary Repair 
+		- Not preferred
+		- Will likely require total hepatic isolation for bleeding control
+		- Can consider supraceliac aortic clamp and/or atriocaval shunt for further control if needed
+	- Ligation
+		- Not as well tolerated due to compromised outflow of both renal and hepatic veins, can cause both kidney and liver ischemia
 
-so if you do find yourself needing to operate on this obviously you you need to mobilize the liver to expose this part of the of the vena cava what considerations do you need to take into account before mobilizing the liver And can you walk us through your technique in doing so 
 
-**Rasmussen:** Yeah I think effective mobilization livered cannot be overstated how important that is because to to get enough control of the vena cave And this segment really requires dividing the attachments of the liver to the diaphragm and and getting the liver well mobile so that so that it can be moved Cephalad And allow exposure of this segment So I think what to be mindful of is is in this area this this is just a very difficult area because inevitably there are lumbar veins coming from the backside of of this aspect of the vena cava in inevitably to to control The the cephalad portion of this area there's likely to be a couple of hepatic veins that are coming into this area So it is in a mobilization liver I think is very important to to allow exposure I think we mentioned I guess to start the the medial visceral rotation of the right colon and the head of the pancreas all of that has to really be I think maybe to your point make sure that that exposure is also very thorough so that the the third fourth portion of the Dudina M the head of the pancreas are lifted up off of this segment so that one can really expose and see as we said the outset it's difficult to so what you can't see you know 
+**Portal Vein and Superior Mesenteric Vein Injuries**
 
-**Kevin:** And I think one point that we haven't emphasized enough here that you emphasize in your book substantially is the fact about really being careful about your decision to mobilize the liver and how you can really make your situation worse Can you touch on that 
+Injuries to portal vein and SMV can be very catastrophic. 
 
-There are some injuries where actually leaving the liver ACE of course retro hepatic If you get into the retro hepatic segment then and those situations often leaving the liver in places is I because it's it's What hemostasis may be attainable is unroof the tear and the vena cave and behind the liver So in those cases actually leaving the liver and not smoke might be beneficial and should be pursued in contrast if this is Injury to the to the super renal segment of the IBC It's a longitudinal tear and and you sort of see it that it's there It's not a retro Paddick segment then and you see the bleeding is from below the liver in the Vionic Gava Then those situations in mobilizing the liver to a degree is actually maybe necessary so that you can control of the injury the fatty grains the super hepatic Vena cava is that is that before the portions are we've talked about the infra renal super renal retro Patrick and then super panic that is exposing that There's also a pretty short segment air from the last of the phrenic veins that train into the new Kiva right at the cruise and then the writing heart and the pericardium So that's a pretty short segment there to expose that area one needs to really divide up along its IFAD to really get the costal margins to open up To just go from a tip of the to the pubis Often it is not enough Really in my experience takes a very good effort to to divide up along the the edge of the two to three centimeters cephalad separating the XY from the right costume origin to really open that up and show the all of the diaphragm and and at the base of that of course Will be the vena cava And that's sort of that fourth segment if you will that We have discussed 
+Non-isolated injury --- usually associated with other injuries (ie pancreatic + celiac vessels).
 
-Dr. Rasmussen at least in a lot of my training I've been taught with a large bleeding IVC to get proximal distal control sponge sticks you're in your book you have some precautions that you mentioned against this technique and how do you recommend approaching a 
+Exposure 
+- Pringle maneuver to gain control of porta hepatis 
+- Division of pancreatic head for better visualization
 
-**Rasmussen:** So I think the tenant of the sponge stick is is Is the same where the ease the sponge stick or and or a finger or another instrument you know it's it's I think it's the starter right You're trying to I got to start somewhere and there's this black blood welling up I've got pressure on it so that pressure can be applied with a sponge stick or a hand I think what one recognizes that whatever you use for that initial application of pressure you're going to have to refine your dissection You're going to have to refine your exposure and then you're going to have to refine that manual pressure mechanism because you can't operate everybody's got their hand in the woman it may not be bleeding but you can't be there forever and you can't see to actually disect and expose and operate So I think the the sponge sticks are fine I think so we don't skip over it if if this is a retroparotoneil hematoma from the inferior vena cava this has gotta be exposed in my experience through visceral rotation of the right colon the seek them and the right colon up to the patient's left exposing the vena cava You won't be able to manage this hematoma by going through the mesentery of the right colon for example That's so that's a premise that this injury has gotta be managed with a medial visceral rotation of the right colon and seek them a cephalad into the patient's left to expose this Injury Even if you start out with with the sponge stick or manual pressure before that maneuver let anesthesia catch up give blood in the room but eventually you're going to have to mobilize that seek them and right colon up and to the patient's left you know I think from there you know these technical tricks that you're referring to I think trying to get the application to something smaller than the sponge sticks So oftentimes something that's referred to as a Kitner or a peanut if you will those are lower profile you can see around them off and you can sew around them They're smaller than the deck and oftentimes use of those which is really the similar principle of Manual pressure is I think useful you know I think all you have the sponge sticks in to the degree that one can get proximal and distal control of some of the large tributaries feeding the injury area the iliac vein then that may be useful as well the other technical tenants are you're going to need probably two large bore suction devices lights blood in the room Don't overlook those things as we have Sat in a couple of our other segments you know this is the type of injury where you may only get one or two chances at this You want to make those those chances as good as possible So you know the the sponge stakes are fine but they're only going to be a starter and you're going to have to refine your your manual pressure to something smaller so that she can disect and expose 
-
-so we were talking about retro paddock cable injuries and a technique that we didn't discuss that may be useful in situations where There was blood welling up from behind the liver and it's not clear where it's coming from is a total vascular isolation or total Astro exclusion you walk us through that 
-
-**Rasmussen:** Yeah I took a good point And I think we haven't mentioned that And of course that is trying to isolate all the flow to the liver and reduce bleeding ultimately from the cave and the confluence of the of the paddock beans So you know if one thinks about the inflow into the liver right So that it would be the portal vein which is Probably 70 to 80% of the total flow So trying to isolate the portal vein and being able to control at least an isolate the poor to happiness and a portal vein the paddock artery through what's called a Pringle maneuver so that's the that's really the inflow to the liver and then as far as that segment of the vena cava controlling You know the vena cave and the renal veins below that injured segment the the other portion of inflow So going through those steps to isolate what is inflow into the liver and that injured segment of cave at where the confluence of the paddock beans is that's sort of the the key tributaries that need to be accounted for in that maneuver 
-
-**Adham:** And then when you're above the injury and the super impatent Kiva Are you getting control in the area of the California so the paddock veins below the diaphragm or do you find that you need to go into the chest cave and the chest 
-
-**Rasmussen:** Yeah So that's a great question I think when doing total hepatic isolation the the one segment which is a super hepatic segment of the vena cava I tend to cheat The question was do you go into the chest to control that segment or can you do it through the abdomen I always do it through the abdomen but when I say I cheat I suspect by the time that I I've done it I've divided the up along the cost of margin and almost started what amounts to opening the chest through the abdomen Because you're you're exactly right You have to get pretty high And using some deep what are referred to as long renal vein retractors the Wylie renal vein retractors that are handheld those can go down onto the cruise since it covers the vena gaven and you're basically in the chest or just in the chest through the superior aspect of the of the abdomen I can't emphasize in those situations how important it is to Of released the hepatic attachments to that portion of the diaphragm and then really are those costs or margins you know the cost of margins they tend to enclose around the abdomen and that's what they do But by dividing the three to four centimeters cephalad It's often overlooked but that really allows you to almost suspend the patient with retractors under the cost of margins And that really in a way puts you in the chest although you're there through the peritoneal cavity 
-
-**Kevin:** And just for completeness sake to totally cover a total hepatic vascular exclusion if you still have bleeding after getting the super Padick and infer hepatic control and the Pringle is there an option to prevent any further flow I'm alluding to the point in your book where you talk about in this very rare situation you can do a super celiac aortic clamp to help identify the injury but the patients are unlikely to survive this 
-
-**Rasmussen:** Correct I mean I think there's a couple of there's a couple of damage control steps You can certainly clamp the aorta to see if that helps I mean I think that's absolutely a great point and I didn't mean to overlook that if nothing else oftentimes clamping the is neededto support left ventricular afterload for a period of time because these patients are in rough shape or you may need to clamp the aorta as a sensitive maneuver anyway and they see that that helps or doesn't help the other The other situation is trying to then place that then bypass you know from the basically from the inferior vena cava up into the right atrium you know these are very rare but that is a way to then bypass the liver and allow a continued Right hard from the infer renal segment is by using a shunt So that has been described as the Strock shunt and most commonly is described using the chest tube and that can be used as well as another sort of last I don't want to say last last ditch effort but at that point like clamping the aorta you know you're pretty well down on the list of things that you are are are trying to do 
-
-I think it is still a viable option I mean it's extremely rare but I would advise all surgeons to to learn about it and then to understand what it is I think it's unlikely that we'll find ourselves in those situations but any of the shunting techniques the temporary SA I think it's important to familiarize oneself with the with the principals and and to have in mind the situation in which which it might be useful So I don't think it's it's not any more condemned to the history books as any other you know a modality of temporary avascular shunting 
-
-**Kevin:** Great And so as we're starting to wrap up our venous episode we've covered the four segments of the vena cava And just to recap that's their Infor renal which we can repair we can enter position we can leg gait if needed And then we have our super renal retro Pedic and super hepatic which are quite challenging injuries which we discussed in detail on kind of bail out maneuvers For those Now we're going to talk about our portal vein which also includes our superior mesenteric vein and options in this situation so obviously if possible we're going to you know repair an injury And obviously like we've said many times these injuries do not happen in isolation There's probably multiple other injuries to the pancreas and celiac artery and who knows what else but Can we just discuss If you have a portal vein injury you're probably in a pretty catastrophic situation 
-
-**Rasmussen:** I thinkthat it's going to be tough So I think I mean I suppose they can tolerate it and like any damage control vascular scenario ligation is is an option you know and it may be necessary but I think ligating the main portal vein carries with it a very high mortality So I would if if I would consider gosh you know temporary vascular shontayne if at all possible although that's obviously pretty rare if it's like aided initially as a damage control maneuver is just trying to get things stopped then I would Get the patient stated and then I would try to reconstruct it you know because I don't think longterm the ligated gated portal vein is going to it's very unlikely to be survivable So if for example let's lie gait it let's get the bleeding stop Let's get a Another set of hands in here Okay we've got the bleeding stopped It looks like the portal veins now but let's get the patient resuscitated a little bit warmed up And let's 
-
-And you mentioned in your chapter about you know for these injuries it's very likely you may need to divide the pancreas if the projectile As in divided it for you to help get better exposure to repair One thing I felt was really interesting in your chapter is you discussed how there's very limited experience with these injuries and and not a lot of followup but the thought is that with our current anesthesia techniques and our open abdomen techniques that these Injuries may be survivable when they weren't in the past can you talk a little bit about the blood return from the splanchnic circulation and and why it's important to discuss out the anesthesia and options if you do have to do an aggressive ligation and repair of this vessel 
-
-**Rasmussen:** Well I think if I understand your question I mean as we've These torso vascular injuries are the most complex And and as we have discussed throughout our talk about vascular trauma the reconstructive technique whether it's a damage control technique or a definitive repair technique needs to be done in conjunction with Anesthesia and the resuscitation team and that's to assure that that that the tenants of damage control resuscitation are are be pursued by the team meaning blood and blood components placement prevention by Galapagos the mitigation of acidosis Optimization of relation all of those things So the I think the more complex the vascular injury the greater the consequences with that vascular injury the more important it is that we're communicating with the anesthesia team to let them know what we're doing And considering with regards to in this case these whether it's a portal vein injury or a superior mesenteric vein injury it's it's it's important So that damage control resuscitation occurs with damage control surgery one without the going to fail If you do perfect damage control surgery but you failed at the tenants of DCR damage control resuscitation 
-
-And I so just to wrap up the the portal vein and we kind of Looping in the superior mesenteric vein into this Ligation is really not tolerated but in a catastrophic situation you can consider it as long as there's communication with anesthesia that 50% of the blood volume is going to be sequestered in the splanchnic circulation And then with management of open abdomens and aggressive fluid resuscitation there have been case reports of survival after portal vein ligation so Dr. Rasmussen once again We took you through a lot of vascular trauma today and you were very patient with us and breaking every detail down We really appreciate this and we think our listeners will also 
-
-**Adham:** Thank you 
-
-**Rasmussen:** Well I appreciate the opportunity and I commend you for taking such a complicated topic and I hope that it's useful and would encourage you know as we've said throughout our discussion encourage your Listeners to get an Atlas or a video and augment our discussion you know with with other learning techniques 
+Management 
+- Resuscitation is key
+	- 50% of blood volume is sequestered by splanchnic circulation
+	- Coordination with surgical team and anesthesia to resuscitate appropriately 
+	- Consider insensible losses with open abdomen during OR time
+- Repair these injuries if possible 
+	- Primary repair 
+	- Interposition graft conduits 
+		- Great saphenous vein 
+		- PTFE
+		- Bovine pericardium
+	- Ligation an option in damage-control (high mortality)
+		- temporizing measure to prepare for reconstruction once bleeding is controlled
 
 
 
