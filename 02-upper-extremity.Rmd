@@ -535,9 +535,20 @@ arteritis[@jacklcronenwettVascularDecisionMaking2020; @lejoncour2018]
 
 **What clinical criteria can help diagnose Buerger's?**
 
-Smoking history, onset before 50 years, infrapopliteal arterial
-occlusions, upper limb involvement, absence of atherosclerotic risk
-factors besides smoking.
+Diagnosis of Beurger's disease requires 5 criteria[@akar2019]
+
+1.  Smoking history
+
+2.  Onset before age 45 or 50
+
+3.  Distal extremity ischemia with infrapopliteal arterial occlusions
+    and often upper limb involvement
+
+4.  Classic angiographic findings of segmental occlusions of distal
+    arteries with corkscrew collaterals
+
+5.  Absence of atherosclerotic risk factors (besides smoking, of
+    course), autoimmune disease, diabetes or proximal embolic source.
 
 Although rarely are biopsy sent, pathology will show panvasculitis
 within small and medium-sized arteries, highly cellular intraluminal
