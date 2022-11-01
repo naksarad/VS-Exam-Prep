@@ -1,0 +1,15 @@
+# Medicine and Anesthesia
+
+## Statins
+
+## Anticoagulants
+
+Reversal agents
+
+-   Warfarin - FFP and Vitamin K
+
+-   Dabigitran - Idarucizumab[@glund2019]
+
+-   Edoxaban, apixiban and rivaroxaban - andexanet-alfa
+
+-   Nonspecific with some effect on other DOACs - PPC, Factor 7, and activated PPC[@cuker2019; @kearon2016]
