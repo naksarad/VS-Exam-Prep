@@ -53,10 +53,33 @@ Atherosclerosis begins with an injury to the intimal lining of the
 arterial wall, which, for example, can result from smoking,
 hypertension, hyperglycemia, or advanced age. Repeated injury leads to a
 chronic inflammatory process resulting in the uptake and oxidation of
-LDL.[@hiltunen1998; @tsimikas2005; @witztum1994] This oxidized LDL form
-into intimal plaque, build up and calcification that may result in
-progressive vessel stenosis and subsequent occlusion, or plaque rupture
-with acute occlusion.
+LDL, resulting in foam cells.[@hiltunen1998; @tsimikas2005;
+@witztum1994] Foam cells result when unregulated scavenger receptors
+promote uptake of oxidized LDL by marophages and smooth muscle cells.
+These foam cells become necrotic and then create the central core of the
+atheroma.[@owens2019] This oxidized LDL form into intimal plaque, build
+up and calcification that may result in progressive vessel stenosis and
+subsequent occlusion, or plaque rupture with acute occlusion.
+
+Atherosclerosis is particularly prone to developing at sites of arterial
+bifurcation (i.e. carotid bifurcation, femoral bifurcation) because
+turbulent flow and low laminar shear stress results in the down
+regulation of eNOS and NO production. This in turn increases V-CAM-1 and
+reduces inhibition of KF-kB (resulting in it's elevation.[@owens2019]
+
+| Classification | Description                                                             |
+|:---------------:|-------------------------------------------------------|
+|       0        | Normal artery                                                           |
+|       1        | Initial atherosclerotic lesion                                          |
+|       2        | Fatty streak                                                            |
+|       3        | Fatty plaque/raised fatty streak                                        |
+|       4        | Atheroma                                                                |
+|       5        | Fibroatheroma - development of fibrotic cap, vascularization or calcium |
+|       6        | Complicated lesion                                                      |
+
+: AHA lesion classification - defines plaque risk for
+rupture/thrombosis. Extrapolated from the coronary artery disease
+literature.[@mcgill2000]
 
 **What are the risk factors for atherosclerosis?**
 
@@ -67,14 +90,15 @@ with acute occlusion.
     -   The **most significant modifiable risk factor** for developing
         peripheral arterial disease.
 
-    -   Causes Endothelial dysfunction by reducing nitric oxide and
-        triggering reactive-oxygen species
-        [@unitedstatessurgeongeneralHealthConsequencesSmoking2014].
+    -   Causes endothelial dysfunction by reducing nitric oxide and
+        triggering reactive-oxygen species, platelet ahesion, and
+        permeability of endothelial surface to
+        fibrinogen.[@unitedstatessurgeongeneralHealthConsequencesSmoking2014;
+        @hackam2003].
 
     -   Causes a prothrombotic environment by causing an increase in
         thromboxane A2 and decreasing prostacyclin thus overall
-        resulting in an increased prothrombotic environment for
-        platelets.
+        resulting in increased prothrombotic environment for platelets.
 
     -   Smoking has a stronger association with Intermittent
         claudication than with Coronary Artery Disease!
@@ -116,17 +140,35 @@ with acute occlusion.
 
     -   The **most common** cardiovascular risk factor worldwide.
 
+        -   USPSTF Grade A recommendation for HTN screening confirm
+            readings outside clinical setting or at home before
+            initiating treatment.[@piper2014]
+
     -   The Incidence of PAD increases to 2.5-fold in patients with
         Hypertension. [@kannelUpdateEpidemiologicFeatures1985]
+
+    -   Each 20mg increase in BP, results in a 35-63% increase risk in
+        PAOD. Recommend keeping BP \<140/90 or \<130/80 in diabetics or
+        CKD.[@adler2000; @bavry2010; @emdin2015; @itoga2018]
 
 4.  ***Dyslipidemia***
 
     -   A strong association has long been identified as a risk factor
-        for cardiovascular disease.
+        for cardiovascular disease.[@langlois2018; @diehm2004]
 
     -   25% cardiovascular event reduction for each 39 mg/dL (1mmol/L)
         reduction in LDL.
         [@heartprotectionstudycollaborativegroupRandomizedTrialEffects2007]
+
+    -   JUPITER Study - Randomized rosuvastatin 20mg to placebo in
+        healthy patients. Found significant decrease in unstable angina,
+        myocardial infarction and stroke. However, patients had a higher
+        incidence of physician-reported diabetes, but no difference in
+        myopathy.[@ridker2008]
+
+    -   Fish oil is also indicated for secondary prevention among
+        patients with known cardiovascular disease.[@grenon2012;
+        @kris-etherton2002; @siscovick2017]
 
 **Non-Modifiable:**
 
@@ -141,7 +183,7 @@ with acute occlusion.
     -   The Framingham Study has found that the risk of developing PAD
         is doubled in men.
 
-3.  ***Ethnicity***
+3.  ***Race and Ethnicity***
 
     -   The MESA study showed a higher prevalence of PAD (ABPI \<0.9) in
         African Americans compared to Whites. 7.2% versus 3.6%.
@@ -409,6 +451,10 @@ Guidelines?**
         aspirin versus placebo. 8 years follow up no difference in
         events [@fowkesAspirinPreventionCardiovascular2010] -- therefore
         benefit unknown
+    -   Literature reviews find benefits in secondary prevention with
+        antiplatelet monotherapy (aspirin or clopidogrel) in symptomatic
+        PAD.[@banerjee2015] Some initial studies did demonstrate benefit
+        from vorapaxar as well.@rooke2013
 
 -   ***Statin Therapy***
 
@@ -445,13 +491,32 @@ Guidelines?**
 
     -   No benefit from US surveillance, unclear benefit of ABPI
         surveillance.
+    -   Patients are at higher risk of depression (almost 20%),
+        therefore PHQ-9 and -2 are good screening tools.[@jha2019;
+        @mcdermott2016; @ramirez2018]
 
 **How can we medically manage Intermittent Claudication based on the SVS
 Guidelines?**
 
 -   **Smoking Cessation:** Multidisciplinary comprehensive smoking
     cessation interventions -- repeatedly until tobacco use has stopped
-    *(Grade A -- 1)*
+    *(Grade A -- 1)* First line therapy is behavioral therapy +
+    varenicline/bupropion or nicotine replacement therapy (NRT) per
+    EAGLES trial.[@anthenelli2016; @vogeler2016]
+
+    -   Preloading with varenicline (4wks) or bupropion (5-7d) prior to
+        quitting has demonstrated higher abstinence at
+        12w.[@ratchford2011]
+
+        -   Varenicline is a partial nicotine receptor
+            agonist.[@cahill2016]
+
+        -   Buproprion is a selective dopamine and norepinephrine uptake
+            inhibitor.[@hughes2014]
+
+    -   NRT is preferred if rapid onset of action is
+        needed.[@thomsen2014] However, contraindicated in setting of
+        recent MI, severe angina, or life threatening arrhythmias.
 
 -   **Dyslipidaemia:** Statin Therapy Recommended -- most recent
     evidence on lipid therapy has suggested focusing on reducing 10-year
@@ -461,21 +526,40 @@ Guidelines?**
 -   **Anti-Platelet Therapy:** Aspirin therapy (75-325mg daily) is
     recommended to reduce cardiovascular events in patients with PAD
     *(Grade 1-Level A)*
-    [@collaborationCollaborativeMetaanalysisRandomised2002]
+    [@collaborationCollaborativeMetaanalysisRandomised2002;
+    @antithrombotictrialists(att)collaboration2009]
 
     -   There is evidence that Clopidogrel 75mg compared to Aspirin is
         better in event reduction.
         (CAPRIE)[@capriesteeringcommitteeRandomisedBlindedTrial1996]--
         replacing Aspirin with Clopidogrel *(Grade 1-Level B)*
+    -   Recent evidence from the COMPASS trial has suggested that the
+        addition of low dose rivaroxaban (2.5mg BID) to aspirin (100mg
+        daily) has lowere MALE, composite endpoint of cardiovascular
+        death, stroke and MI. Subgroup analysis suggested clopidogrel
+        may be better with reduced risk of GI bleed and
+        MACE.[@anand2018; @eikelboom2017]
 
 -   **Diabetes Mellitus:** -- Optimization of HbA1C \< 7% *(Grade
     1-Level B)*[@lajoie2019]
 
--   **Hypertension** -- Indicated B-Blockers for hypertension *(Grade
+-   **Hypertension** -- Indicated B-Blockers for hypertension. *(Grade
     1-Level B)* (there's no evidence that Beta Blockers worsens IC)
 
--   **Homocysteine** -- Recommendation against Folic Acid and Vit B12
-    *(Grade 2 -- C)*
+    -   Initiation of beta-blockers in the immediate preoperative period
+        is associated with worse outcomes.[@blessberger2018;
+        @poisestudygroup2008]
+
+    -   ACE Inhibitors are first line in patients with heart failure,
+        diabetes or kidney disease but should be avoided in patients
+        with renal artery stenosis (RAS).[@barrons2016]
+
+-   **Homocysteine** -- Recommendation against Folic Acid and Vit
+    B12*(Grade 2 -- C)*
+
+    -   Higher homocysteine levels are associated with PAOD and risk of
+        venous and arterial thrombosis.[@dangelo1997; @khandanpour2009;
+        @liebman2019]
 
 **To improve Limb Function in patients with IC:**
 
@@ -487,10 +571,15 @@ Guidelines?**
     -   Based on Meta-analysis 26 trials
         [@stevensSystematicReviewEfficacy2012]
 
--   **Exercise Therapy**
+-   **Supervised Exercise Therapy**
 
     -   First Line Therapy recommended SEP: minimum three times / week
-        (30-60 min/session) for at least 12 weeks (Grade 1 Level A)
+        (30-60 min/session) for at least 12 weeks (*Grade 1 Level A*)
+
+    -   More durable functional improvements than angioplasty alone,
+        however no current data demonstrating impact on need for
+        revascularization or amputation rate.[@fakhry2013; @fakhry2015;
+        @murphy2012; @murphy2015]
 
     -   Meta-analysis of 32 RCTs: Placebo versus exercise: Walking Time,
         Walking Ability, Pain Free Walking and maximum walking distance
@@ -573,6 +662,12 @@ Claudication?**
         -   SFA 5-15cm, self-expanding stent (with or without
             paclitaxel) *(Grade 1 Level B)* -- NB: (This was in 2015 pre
             Katsanos Paper[@katsanos2018])
+
+            -   After SFA stenting, SVS and ACC recommend at least 30d
+                dual anti-platelet, then single anti-platelet or
+                anti-platelet and rivaroxaban.[@hussain2018;
+                @societyforvascularsurgerylowerextremityguidelineswritinggroup2015;
+                @strobl2013; @tepe2012]
 
         -   Recommend against infrapopliteal treatment for IC *(Grade 1
             Level C)*
@@ -868,8 +963,10 @@ healing: Amputation Free Survival TP \<30mmHg 2.13 HR (1.52-2.98).
 
 Patients with ESRD or DM develop medial calcification and often have
 elevated ABPI (\>1.3) - which is associated with an elevated risk of
-cardiovascular mortality. Toe pressures are particularly important in
-this scenario. [@resnick2004; @vitti1994]
+cardiovascular mortality. Outcomes in patients with ESRD are worse in
+relation to amputation free survival and amputation rates, regardless of
+revascularization strategy.@meyer2018 Toe pressures are particularly
+important in this scenario. [@resnick2004; @vitti1994]
 
 Regarding non-invasive assessment for wound healing, a tcPO2 greater
 than 40mmHg has the greatest correlation with amputation stump
@@ -1153,6 +1250,14 @@ planning for CLTI based on anatomy and conduit.**
     the wound and the most distal healthy inflow vessel to result in the
     shortest bypass possible.[@hingorani2016; @jongsma2017]
 
+-   Intensified anti-thrombotic therapy may be needed in patients with
+    "high risk" infrainguinal bypasses--prosthetic conduit, below the
+    knee targget, suboptimal conduit, poor arterial runoff, extensive
+    lesions or tissue loss. Single anti-platelet may not be sufficient,
+    and should be intensified to asa/rivaroxaban, dual antiplatelet, or
+    anticoagulation with Vit K antagonist.[@conte2015; @hussain2018;
+    @strobl2013; @tepe2012]
+
 #### Complications
 
 **What are some complications of lower extremity revascularization
@@ -1406,6 +1511,11 @@ the most immediate and best imaging of the tibial vessels.
             develops during thrombolysis, stop lysis and perform
             immediate CT head.
             [@ourielComparisonRecombinantUrokinase1998]
+
+        -   If fibrinogen drops below 100mg/dl, recommend immediate
+            cessation of lytic agent and consider cyroprecipitate
+            (includes fibrinogen, factor VIII, von Willebrand's factor,
+            factor XIII).[@mann2019]
 
     -   ***Percutaneous Thrombus Aspiration***: Useful for small fresh
         thrombi such as after angioplasty, as distal diameter of the
